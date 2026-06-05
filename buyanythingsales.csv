@@ -1,0 +1,957 @@
+OrderID,OrderDate,CustomerID,CustomerName,Country,ProductID,ProductCategory,ProductName,Quantity,UnitPrice,TotalPrice,SalesRegion
+1,5/4/2025,9233,Justin Burgess,Israel,836,electronics,Headphones,7,307.44,2152.08,South
+2,9/28/2024,9816,Joe Williams,Angola,760,Sports,Football,10,833.84,8338.4,West
+3,1/8/2025,1008,Nicholas Barnes,United Arab Emirates,677,sports,treadmill,9,105.01,945.09,North
+4,10/8/2024,9227,Troy Wagner,palau,921,Clothing,Jeans,10,253.59,2535.9,South
+4,10/8/2024,9227,Troy Wagner,palau,921,Clothing,Jeans,10,253.59,2535.9,South
+4,10/8/2024,9227,Troy Wagner,palau,921,Clothing,Jeans,10,253.59,2535.9,South
+5,8/14/2023,1440,Miguel Johnson,Estonia,956,Electronics,Laptop,2,693.5,1387,north
+6,6/23/2023,5333,Deborah Brooks,Hong Kong,546,Electronics,Smartphone,8,994.65,7957.2,North
+7,1/7/2024,6466,Jerry Schneider,United Arab Emirates,812,Clothing,Jacket,5,335.78,1678.9,East
+8,9/12/2023,5357,Christopher Hill,Japan,802,Clothing,T-Shirt,4,477.07,1908.28,South
+9,12/26/2023,1158,Jessica Morrison,Guernsey,603,Sports,Tennis Racket,5,21.71,108.55,West
+10,11/2/2023,2326,Robert Carroll,Portugal,841,Beauty,Nail Polish,3,803.36,2410.08,South
+11,7/7/2024,8277,Kim Weaver,Mongolia,526,Clothing,socks,7,992.47,6947.29,North
+12,11/12/2024,5174,Larry Mack,Croatia,810,Clothing,T-Shirt,3,46.61,139.83,east
+13,9/30/2024,5400,Jessica Weber,Guinea,839,Furniture,Couch,1,491.89,491.89,West
+14,5/27/2024,2020,Melanie Gonzalez,Montserrat,798,Furniture,Bed,4,640.97,2563.88,West
+15,10/23/2024,1440,Miguel Johnson,Estonia,697,Clothing,Shoes,7,278.6,1950.2,East
+16,2/12/2024,4073,Joshua Howard,Colombia,976,Electronics,Smartphone,7,242.43,1697.01,West
+16,2/12/2024,4073,Joshua Howard,Colombia,976,Electronics,Smartphone,7,242.43,1697.01,West
+17,11/14/2023,1792,Patrick Brown,French Southern Territories,823,Furniture,Bed,10,799.32,7993.2,North
+18,10/28/2024,9035,Nathaniel Long,Macedonia,621,Clothing,T-Shirt,7,866.25,6063.75,East
+19,6/21/2024,9035,Nathaniel Long,Macedonia,626,Clothing,Shoes,10,133.98,1339.8,South
+,,,,,,,,,,,
+20,8/11/2023,1497,Sarah Nielsen,Kiribati,526,Clothing,Jacket,4,903.25,3613,East
+21,3/22/2024,2610,Krista Sampson,Jamaica,892,Furniture,Couch,3,648.57,1945.71,West
+22,12/12/2024,4809,Justin Montgomery,Djibouti,939,Electronics,Headphones,10,542.34,5423.4,West
+23,2/8/2025,9387,Benjamin Hardy,Mexico,763,Clothing,T-Shirt,6,433.91,2603.46,West
+24,8/4/2024,4073,Joshua Howard,Colombia,671,Clothing,T-Shirt,8,684.93,5479.44,South
+25,12/2/2023,2377,Heather Smith,Burkina Faso,513,Clothing,Shoes,4,882.43,3529.72,South
+26,1/16/2024,3411,Ashley Lang,Belgium,882,Furniture,Couch,8,75.11,600.88,West
+27,4/21/2024,7107,Randall Robinson,Senegal,513,Furniture,Chair,1,43.52,43.52,East
+28,5/12/2025,2486,Scott Greene,United States of America,867,Electronics,Laptop,8,324.51,2596.08,West
+30,6/18/2024,5514,Jeremiah Fowler,Congo,950,Clothing,Jacket,3,27.85,83.55,West
+31,6/17/2024,3976,Leslie Torres,Niger,719,Electronics,Headphones,3,442.59,1327.77,East
+32,3/29/2024,8379,David Kelley,Guinea,582,Sports,Basketball,9,389.6,3506.4,East
+34,5/24/2024,6093,Ashley Russo,Liberia,698,Sports,Bicycle,4,238.87,955.48,North
+35,12/18/2024,2746,Jesse Krause,Lesotho,704,Beauty,Perfume,6,757.67,4546.02,North
+36,3/29/2024,1440,Miguel Johnson,Estonia,652,Electronics,Monitor,8,337.62,2700.96,East
+37,6/14/2024,3258,Reginald Middleton,South Georgia and the South Sandwich Islands,810,Clothing,Socks,10,823.13,8231.3,West
+38,10/13/2023,5909,Sharon Ramos,Angola,626,Clothing,T-Shirt,4,258.76,1035.04,South
+39,9/4/2024,7143,Timothy French,Ireland,532,Beauty,Lotion,3,285.78,857.34,West
+40,1/15/2025,7242,Benjamin Peterson,Niger,852,Clothing,Jeans,7,780.94,5466.58,West
+41,9/3/2023,8277,Kim Weaver,Mongolia,853,Clothing,Jeans,5,983.68,4918.4,North
+42,10/22/2024,9387,Benjamin Hardy,Mexico,989,Electronics,Laptop,3,536.77,1610.31,South
+43,3/7/2025,4664,Eric Olson,Belize,576,Furniture,Chair,4,680.06,2720.24,East
+44,10/22/2024,3229,Victor Vazquez,Australia,696,Clothing,Shoes,1,773.37,773.37,South
+45,8/30/2023,4717,Emily Phillips,Armenia,733,Electronics,Camera,5,218.4,1092,South
+46,10/24/2023,9090,Michael Myers,Vanuatu,970,Beauty,Perfume,1,490.07,490.07,East
+47,1/4/2024,9991,Tyler Chapman,Afghanistan,986,Electronics,Monitor,10,293.3,2933,North
+48,4/6/2024,8341,Nathaniel Johns,Macedonia,891,Sports,Treadmill,3,691.06,2073.18,West
+49,2/12/2025,7890,Whitney Stewart,Barbados,589,Furniture,Bed,6,756.67,4540.02,North
+50,9/4/2023,6891,Mark West,Japan,985,Electronics,Monitor,5,345.32,1726.6,West
+51,12/22/2023,3732,Karen Young,Saint Barthelemy,526,Beauty,Makeup,1,464.35,464.35,West
+52,11/12/2024,8588,Ellen Horton,Mauritania,988,Beauty,Makeup,2,575.61,1151.22,South
+54,3/19/2024,2482,Antonio Davis,Botswana,942,Beauty,Makeup,3,721.04,2163.12,South
+56,8/2/2023,5048,Frank Chandler,Mayotte,655,Clothing,Socks,9,651.9,5867.1,West
+57,5/30/2025,2132,Alicia Cannon,Pitcairn Islands,562,Beauty,Nail Polish,1,334.55,334.55,South
+58,7/31/2023,9887,Arthur Cortez,French Polynesia,607,Electronics,Monitor,3,640.71,1922.13,North
+59,3/19/2024,7242,Benjamin Peterson,Niger,611,Clothing,Jacket,7,76.7,536.9,South
+60,5/19/2024,8859,Tammy Zhang,Guam,934,Clothing,Shoes,7,812.35,5686.45,North
+61,11/23/2024,9895,Matthew Stark,Libyan Arab Jamahiriya,596,Beauty,Makeup,6,345.78,2074.68,West
+62,12/10/2024,9001,Diane Lawrence,Turks and Caicos Islands,788,Clothing,Jacket,1,730.58,730.58,East
+63,7/13/2024,6466,Jerry Schneider,United Arab Emirates,501,Clothing,Shoes,7,827.42,5791.94,East
+64,3/7/2025,1008,Nicholas Barnes,United Arab Emirates,608,Clothing,Jeans,10,253.73,2537.3,North
+65,7/4/2024,4717,Emily Phillips,Armenia,945,Electronics,Smartphone,8,902.94,7223.52,South
+66,7/19/2024,4902,Kenneth Meyer,Ireland,895,Sports,Treadmill,2,844.73,1689.46,West
+67,5/8/2025,3640,Pamela Allen,Iceland,598,Beauty,Nail Polish,10,352.35,3523.5,South
+68,5/8/2024,4475,Andrea Turner,Saudi Arabia,543,Beauty,Lotion,2,823.44,1646.88,North
+69,9/19/2024,8443,Joseph Wise,Jersey,601,Clothing,Jacket,10,310.76,3107.6,West
+70,10/20/2024,5174,Larry Mack,Croatia,684,Electronics,Headphones,6,911.07,5466.42,East
+71,8/8/2023,3226,Ryan Finley,Luxembourg,744,Sports,Bicycle,4,924.11,3696.44,North
+72,3/7/2025,6883,Tamara Perez,Nigeria,632,Clothing,T-Shirt,3,207.15,621.45,South
+73,1/30/2024,3411,Ashley Lang,Belgium,704,Beauty,Lotion,10,692.29,6922.9,West
+74,5/4/2024,3335,Justin Ellis,Estonia,862,Sports,Tennis Racket,6,601.56,3609.36,South
+75,11/13/2024,5092,Kevin Morse PhD,Palau,808,Furniture,Desk,2,796.44,1592.88,North
+76,3/20/2025,9001,Diane Lawrence,Turks and Caicos Islands,746,Clothing,Jeans,7,892.03,6244.21,North
+77,3/8/2024,4804,Jenna Robinson,Venezuela,546,Beauty,Nail Polish,5,976.12,4880.6,North
+78,5/19/2024,3553,Lindsay Taylor,Jamaica,947,Furniture,Chair,10,992.81,9928.1,South
+79,1/14/2024,3607,Jonathan Wood,Djibouti,644,Clothing,T-Shirt,6,736.72,4420.32,West
+80,4/10/2024,9107,Jason Miller,Palau,616,Electronics,Smartphone,8,397.09,3176.72,East
+81,10/6/2024,5061,Dennis Carey,Norfolk Island,958,Clothing,Jacket,1,829.97,829.97,East
+82,9/15/2024,5043,Cheryl Young,Belgium,688,Sports,Treadmill,2,952.37,1904.74,North
+83,12/5/2024,1420,Hayley Fox,Faroe Islands,638,Clothing,T-Shirt,9,918.74,8268.66,East
+84,3/14/2025,9583,David Farley,Afghanistan,906,Furniture,Table,8,360.15,2881.2,West
+85,8/17/2024,3553,Lindsay Taylor,Jamaica,894,Sports,Treadmill,7,851.76,5962.32,West
+86,5/8/2024,1497,Sarah Nielsen,Kiribati,955,Sports,Bicycle,4,94.98,379.92,South
+87,8/23/2024,6031,Stephanie Lewis,Korea,841,Clothing,Shoes,6,771.31,4627.86,North
+88,6/1/2025,2672,Annette Phillips,Guadeloupe,901,Electronics,Monitor,10,823.49,8234.9,East
+89,1/15/2025,9326,Cynthia Monroe,Nauru,981,Sports,Bicycle,9,721.52,6493.68,West
+90,11/22/2024,4148,Gary Torres,Malawi,980,Electronics,Laptop,9,772.78,6955.02,West
+91,9/27/2023,8604,Timothy Henson,Mayotte,795,Clothing,Jeans,10,104.87,1048.7,West
+92,4/24/2024,4763,Christopher James,Tunisia,526,Sports,Basketball,10,250.24,2502.4,North
+93,2/18/2024,2377,Heather Smith,Burkina Faso,631,Furniture,Table,7,616.45,4315.15,East
+94,10/6/2023,5808,Susan Powers,Iceland,959,Beauty,Nail Polish,5,69.69,348.45,West
+95,5/12/2024,8942,Dean Russell,Belarus,805,Clothing,Shoes,3,747.4,2242.2,West
+96,5/24/2024,8491,Jane Perkins,Saint Martin,752,Furniture,Chair,1,200.94,200.94,North
+97,6/1/2025,5357,Christopher Hill,Japan,528,Clothing,Shoes,9,826.7,7440.3,West
+98,10/24/2023,7625,Toni Hernandez,Trinidad and Tobago,995,Sports,Bicycle,10,636.71,6367.1,South
+99,1/30/2025,2734,Erica Brown,Libyan Arab Jamahiriya,995,Beauty,Makeup,3,793.78,2381.34,North
+100,11/29/2023,7351,Joshua Rojas,Lebanon,613,Electronics,Headphones,1,810.39,810.39,North
+101,5/9/2025,2746,Jesse Krause,Lesotho,963,Furniture,Bed,4,922.93,3691.72,West
+102,5/23/2025,6466,Jerry Schneider,United Arab Emirates,708,Furniture,Desk,1,809.85,809.85,East
+103,2/25/2025,2672,Annette Phillips,Guadeloupe,815,Electronics,Laptop,1,731.11,731.11,East
+104,4/6/2025,8305,Wayne Stokes,Mali,807,Furniture,Bed,9,918.82,8269.38,West
+105,9/24/2023,8433,Jacob Norris,South Georgia and the South Sandwich Islands,830,Beauty,Nail Polish,9,774.86,6973.74,North
+106,4/16/2025,3226,Ryan Finley,Luxembourg,837,Clothing,Jeans,5,145.85,729.25,South
+107,10/31/2023,2734,Erica Brown,Libyan Arab Jamahiriya,823,Electronics,Monitor,9,714.17,6427.53,North
+108,4/2/2024,1351,Jeffrey Anderson,French Southern Territories,572,Clothing,Jacket,9,883.37,7950.33,West
+109,2/13/2024,9326,Cynthia Monroe,Nauru,913,Sports,Bicycle,2,913.53,1827.06,South
+110,11/23/2023,7494,Christopher Leon,New Zealand,800,Sports,Tennis Racket,3,214.44,643.32,North
+111,7/19/2024,8588,Ellen Horton,Mauritania,792,Electronics,Headphones,3,977.41,2932.23,South
+112,5/12/2025,1712,Karen Williams MD,Netherlands Antilles,962,Beauty,Lotion,10,510.61,5106.1,East
+113,11/1/2024,9991,Tyler Chapman,Afghanistan,743,Clothing,Jeans,1,191.07,191.07,East
+114,12/19/2024,2884,Lorraine Kim,Venezuela,807,Clothing,Jacket,6,480.29,2881.74,North
+115,4/13/2025,8859,Tammy Zhang,Guam,679,Clothing,Jeans,7,380.48,2663.36,East
+116,1/17/2025,2672,Annette Phillips,Guadeloupe,639,Electronics,Monitor,7,461.5,3230.5,North
+117,12/2/2023,4484,Dr. Andrea Lopez,Kuwait,797,Electronics,Monitor,10,185.85,1858.5,North
+118,3/14/2024,8491,Jane Perkins,Saint Martin,900,Sports,Treadmill,4,368.82,1475.28,West
+119,3/16/2024,3640,Pamela Allen,Iceland,567,Sports,Basketball,5,248.65,1243.25,East
+120,12/6/2023,8443,Joseph Wise,Jersey,754,Furniture,Table,6,601.01,3606.06,North
+121,8/18/2023,1712,Karen Williams MD,Netherlands Antilles,767,Furniture,Chair,9,506.29,4556.61,North
+122,4/11/2025,7361,Willie Castillo Jr.,Comoros,909,Furniture,Chair,3,324.97,974.91,East
+123,2/14/2025,8437,Francisco Beasley,Brazil,981,Electronics,Laptop,5,535.69,2678.45,North
+124,1/24/2025,8859,Tammy Zhang,Guam,779,Electronics,Camera,2,283.81,567.62,North
+126,10/28/2023,1161,Juan Montoya,Egypt,699,Clothing,Shoes,9,869.9,7829.1,South
+127,1/1/2025,7361,Willie Castillo Jr.,Comoros,579,Furniture,Chair,1,733.76,733.76,South
+128,1/14/2024,4211,Rachael Woods,Sri Lanka,993,Beauty,Lotion,9,399.69,3597.21,North
+129,11/24/2023,6590,Dawn Garza,Palau,831,Clothing,Socks,10,595.11,5951.1,South
+130,5/31/2025,5622,Aaron Cox,Mauritania,782,Sports,Football,10,922.52,9225.2,West
+131,3/21/2025,4804,Jenna Robinson,Venezuela,806,Sports,Treadmill,3,710.72,2132.16,West
+132,12/27/2023,4896,Paul Gonzalez,Australia,726,Beauty,Lotion,9,555.13,4996.17,North
+133,2/3/2024,5996,Jessica Kelly,Turkmenistan,581,Beauty,Shampoo,6,299.12,1794.72,East
+134,4/12/2025,8437,Francisco Beasley,Brazil,935,Beauty,Lotion,9,227.52,2047.68,North
+135,8/3/2023,3411,Ashley Lang,Belgium,528,Clothing,Jacket,3,574.22,1722.66,East
+136,8/28/2023,1420,Hayley Fox,Faroe Islands,871,Beauty,Nail Polish,10,676.84,6768.4,South
+137,8/16/2023,9938,William Rivera,Mongolia,924,Sports,Basketball,1,578.26,578.26,West
+138,9/22/2024,1351,Jeffrey Anderson,French Southern Territories,673,Beauty,Shampoo,10,986.39,9863.9,North
+139,1/18/2024,8352,Adam Burns,Nigeria,838,Sports,Basketball,2,789.34,1578.68,West
+140,3/20/2024,1355,Lindsey Peterson,Saint Kitts and Nevis,810,Beauty,Shampoo,7,458.66,3210.62,South
+142,7/12/2024,9094,Erica Martin,Guadeloupe,599,Sports,Treadmill,5,451.52,2257.6,South
+143,6/17/2025,1355,Lindsey Peterson,Saint Kitts and Nevis,505,Sports,Tennis Racket,9,324.03,2916.27,North
+144,3/4/2025,9001,Diane Lawrence,Turks and Caicos Islands,905,Sports,Treadmill,9,676.05,6084.45,South
+145,8/26/2024,2924,Amanda Hayden,Jersey,562,Sports,Bicycle,10,825.51,8255.1,East
+146,8/26/2023,2305,Robert Hill,Italy,937,Electronics,Monitor,2,369.48,738.96,West
+147,4/15/2025,3411,Ashley Lang,Belgium,619,Electronics,Smartphone,9,437.99,3941.91,West
+148,4/24/2025,1349,Holly Jones,Solomon Islands,735,Beauty,Makeup,9,855.48,7699.32,South
+149,4/11/2024,7361,Willie Castillo Jr.,Comoros,528,Electronics,Smartphone,2,957.26,1914.52,North
+150,11/30/2023,5400,Jessica Weber,Guinea,906,Electronics,Laptop,7,413.1,2891.7,West
+151,1/2/2025,6274,Daniel Madden,Armenia,649,Furniture,Bed,3,139.62,418.86,East
+152,6/16/2024,2447,Mario Bates,Ecuador,569,Furniture,Bed,4,471.47,1885.88,East
+153,1/13/2025,9387,Benjamin Hardy,Mexico,909,Furniture,Chair,2,660.96,1321.92,North
+154,3/26/2024,5851,John Flores,Liberia,511,Sports,Basketball,3,941.12,2823.36,West
+155,1/29/2024,2585,Jeffrey Chase,Montserrat,964,Sports,Bicycle,4,510.18,2040.72,West
+156,2/28/2024,8761,Sara Green,Nicaragua,745,Beauty,Perfume,6,66.58,399.48,South
+157,2/7/2025,3553,Lindsay Taylor,Jamaica,516,Electronics,Camera,6,204.55,1227.3,North
+158,9/13/2023,1540,Angela Mcdaniel,Senegal,857,Furniture,Couch,4,919.06,3676.24,South
+159,8/20/2024,1344,James Sanchez,Bosnia and Herzegovina,651,Electronics,Monitor,2,954.9,1909.8,West
+160,9/7/2023,5808,Susan Powers,Iceland,980,Clothing,Socks,10,838.53,8385.3,North
+162,6/27/2024,2231,Laurie Wise,Cook Islands,828,Electronics,Camera,4,962.95,3851.8,East
+163,5/1/2025,4319,Fred Hanson,Hungary,947,Sports,Football,9,93.71,843.39,North
+165,12/8/2023,1405,Tracey Robbins,Samoa,893,Clothing,Shoes,5,771.23,3856.15,North
+166,7/13/2024,9895,Matthew Stark,Libyan Arab Jamahiriya,800,Electronics,Smartphone,7,968.13,6776.91,North
+167,9/5/2023,8386,Ronnie Wells,Faroe Islands,682,Electronics,Smartphone,9,726.9,6542.1,South
+168,2/22/2025,5851,John Flores,Liberia,725,Clothing,Socks,5,195.9,979.5,North
+169,1/16/2025,9107,Jason Miller,Palau,741,Electronics,Smartphone,8,286.51,2292.08,West
+170,4/26/2024,3513,Emily Martin,Grenada,743,Furniture,Couch,5,557.21,2786.05,West
+171,8/5/2024,7143,Timothy French,Ireland,535,Electronics,Smartphone,3,99.14,297.42,West
+172,3/20/2025,1161,Juan Montoya,Egypt,743,Beauty,Makeup,1,409.19,409.19,West
+173,5/3/2024,1161,Juan Montoya,Egypt,705,Beauty,Makeup,6,908.13,5448.78,South
+174,9/23/2023,2924,Amanda Hayden,Jersey,896,Clothing,Shoes,3,29.56,88.68,East
+175,4/9/2025,2918,Christopher Scott,Gibraltar,514,Furniture,Desk,6,931.11,5586.66,East
+176,11/19/2023,3477,Linda Lopez,Svalbard & Jan Mayen Islands,645,Beauty,Lotion,10,631.85,6318.5,East
+177,3/10/2025,5625,Kenneth Hill,Micronesia,726,Electronics,Smartphone,1,582.32,582.32,North
+178,9/13/2024,5996,Jessica Kelly,Turkmenistan,766,Electronics,Laptop,3,316.08,948.24,North
+179,11/1/2023,9388,Cheryl Stone,Slovakia (Slovak Republic),729,Clothing,Jeans,3,257.09,771.27,North
+180,1/22/2025,6466,Jerry Schneider,United Arab Emirates,552,Electronics,Laptop,5,654.67,3273.35,North
+181,10/24/2024,1712,Karen Williams MD,Netherlands Antilles,813,Beauty,Nail Polish,10,994.6,9946,East
+182,11/6/2024,8386,Ronnie Wells,Faroe Islands,893,Beauty,Shampoo,5,743.33,3716.65,North
+183,3/13/2024,7107,Randall Robinson,Senegal,556,Furniture,Chair,6,530.03,3180.18,North
+184,5/27/2024,6654,Brian Mccarthy,Anguilla,879,Furniture,Couch,4,492.98,1971.92,East
+185,1/17/2025,8491,Jane Perkins,Saint Martin,962,Electronics,Camera,1,930.52,930.52,South
+186,3/8/2025,9035,Nathaniel Long,Macedonia,643,Furniture,Chair,3,918.41,2755.23,South
+187,3/1/2024,9703,Jeremy Baker,Cuba,730,Electronics,Camera,9,144.7,1302.3,East
+188,3/16/2025,7242,Benjamin Peterson,Niger,670,Furniture,Couch,9,499.82,4498.38,East
+189,12/22/2024,2681,Rhonda Dunn,Aruba,513,Furniture,Couch,3,586.52,1759.56,East
+190,9/2/2024,4307,Matthew Espinoza,Zimbabwe,563,Sports,Tennis Racket,4,538.46,2153.84,East
+191,10/1/2023,1497,Sarah Nielsen,Kiribati,568,Sports,Football,10,827.22,8272.2,West
+192,3/24/2024,5622,Aaron Cox,Mauritania,877,Beauty,Perfume,10,400.4,4004,East
+193,8/1/2024,3640,Pamela Allen,Iceland,509,Clothing,Socks,9,141.42,1272.78,South
+194,11/12/2023,8859,Tammy Zhang,Guam,819,Beauty,Makeup,10,431.93,4319.3,East
+195,8/11/2024,2924,Amanda Hayden,Jersey,652,Beauty,Nail Polish,8,798.87,6390.96,North
+196,11/24/2024,9555,Angela Pierce,Ethiopia,749,Electronics,Smartphone,7,735.22,5146.54,West
+197,3/12/2024,1008,Nicholas Barnes,United Arab Emirates,768,Beauty,Lotion,5,120.68,603.4,East
+198,4/27/2024,4305,Jennifer Gardner,Slovakia (Slovak Republic),917,Sports,Basketball,2,951.39,1902.78,West
+199,5/25/2024,5678,Lisa Williams,Niue,594,Furniture,Couch,8,199.82,1598.56,East
+200,11/17/2024,8190,Michael Ellis,Saint Lucia,846,Furniture,Table,5,262.46,1312.3,North
+201,9/18/2024,2610,Krista Sampson,Jamaica,894,Sports,Basketball,7,465.68,3259.76,East
+202,12/9/2023,9420,Brianna Yoder,Latvia,785,Beauty,Perfume,1,460.99,460.99,North
+203,9/15/2023,4655,Karen Munoz,Central African Republic,942,Furniture,Desk,4,471.88,1887.52,North
+204,6/29/2024,8255,Michelle Fields,Isle of Man,770,Furniture,Table,2,933.85,1867.7,West
+205,1/31/2024,1008,Nicholas Barnes,United Arab Emirates,813,Furniture,Bed,7,55.69,389.83,West
+206,11/4/2023,7295,Michael Johnson,Eritrea,633,Beauty,Lotion,7,786.98,5508.86,South
+207,9/4/2024,1405,Tracey Robbins,Samoa,917,Electronics,Camera,3,767.75,2303.25,West
+208,3/25/2025,4902,Kenneth Meyer,Ireland,922,Beauty,Nail Polish,7,146.1,1022.7,East
+209,8/14/2024,4804,Jenna Robinson,Venezuela,862,Clothing,Socks,2,141.64,283.28,West
+210,8/5/2024,2020,Melanie Gonzalez,Montserrat,787,Electronics,Monitor,8,866.87,6934.96,East
+211,11/22/2024,2610,Krista Sampson,Jamaica,959,Beauty,Shampoo,2,830.35,1660.7,West
+212,1/1/2025,1604,Tammy Miles,Chile,536,Beauty,Lotion,10,739.16,7391.6,North
+213,9/20/2023,9001,Diane Lawrence,Turks and Caicos Islands,762,Clothing,Jacket,6,410,2460,South
+214,6/15/2024,5909,Sharon Ramos,Angola,836,Sports,Basketball,9,309.14,2782.26,East
+215,2/21/2024,3780,Jesse Michael,Morocco,520,Sports,Tennis Racket,7,946.33,6624.31,East
+216,7/16/2024,2974,Raymond Sweeney,El Salvador,517,Electronics,Smartphone,9,225.33,2027.97,South
+217,3/13/2024,4148,Gary Torres,Malawi,794,Clothing,T-Shirt,4,50,200,West
+218,10/31/2023,1420,Hayley Fox,Faroe Islands,635,Electronics,Headphones,8,178.04,1424.32,East
+219,6/14/2024,8222,Christopher Benton,Benin,986,Electronics,Monitor,9,796.08,7164.72,West
+220,8/22/2024,3226,Ryan Finley,Luxembourg,766,Beauty,Makeup,2,578.55,1157.1,East
+221,5/1/2024,9594,Miss Alexandra Scott,Netherlands,643,Clothing,Socks,4,380.92,1523.68,South
+222,3/27/2025,2278,Andrea Sandoval,Hong Kong,959,Clothing,Jeans,5,506.44,2532.2,South
+223,11/30/2023,3258,Reginald Middleton,South Georgia and the South Sandwich Islands,501,Beauty,Lotion,10,236.94,2369.4,South
+224,8/18/2023,6274,Daniel Madden,Armenia,916,Furniture,Bed,3,871.66,2614.98,South
+225,11/27/2023,2746,Jesse Krause,Lesotho,611,Electronics,Smartphone,7,673.21,4712.47,East
+226,12/11/2024,8437,Francisco Beasley,Brazil,685,Clothing,Shoes,3,222.06,666.18,West
+227,11/2/2024,8046,Claire Hobbs,Italy,760,Beauty,Perfume,2,749.81,1499.62,East
+228,7/30/2024,1349,Holly Jones,Solomon Islands,834,Sports,Treadmill,4,281.84,1127.36,North
+229,1/24/2024,9951,Mikayla Garrett,Venezuela,527,Beauty,Nail Polish,4,804.66,3218.64,South
+230,9/26/2023,9991,Tyler Chapman,Afghanistan,509,Sports,Treadmill,5,627.46,3137.3,South
+231,11/10/2023,3780,Jesse Michael,Morocco,876,Sports,Basketball,7,235.27,1646.89,North
+232,2/15/2024,1349,Holly Jones,Solomon Islands,531,Furniture,Chair,7,574.52,4021.64,West
+233,2/22/2024,5427,Jack Hoover,Malaysia,750,Beauty,Shampoo,8,674.49,5395.92,East
+235,6/21/2025,9991,Tyler Chapman,Afghanistan,910,Beauty,Perfume,7,978.31,6848.17,South
+236,8/28/2024,8255,Michelle Fields,Isle of Man,644,Clothing,T-Shirt,7,340.77,2385.39,West
+237,4/16/2025,5017,James Henderson,Monaco,909,Beauty,Nail Polish,1,940.27,940.27,East
+238,11/3/2024,9420,Brianna Yoder,Latvia,753,Beauty,Makeup,7,255.61,1789.27,East
+239,10/23/2023,6625,Jonathan Evans,Wallis and Futuna,666,Beauty,Perfume,2,704.12,1408.24,West
+242,1/25/2025,7890,Whitney Stewart,Barbados,619,Beauty,Perfume,10,139.46,1394.6,North
+243,6/2/2024,4989,Ann Lara,Bosnia and Herzegovina,500,Beauty,Nail Polish,6,318.96,1913.76,East
+244,10/5/2023,8222,Christopher Benton,Benin,651,Furniture,Bed,5,80.58,402.9,South
+245,5/17/2024,6093,Ashley Russo,Liberia,787,Furniture,Table,4,764.81,3059.24,West
+246,8/20/2024,3553,Lindsay Taylor,Jamaica,930,Electronics,Smartphone,3,529.41,1588.23,North
+247,10/9/2024,2746,Jesse Krause,Lesotho,849,Furniture,Desk,10,479.15,4791.5,North
+248,9/8/2024,5043,Cheryl Young,Belgium,884,Beauty,Lotion,9,567.22,5104.98,South
+249,3/29/2024,5048,Frank Chandler,Mayotte,523,Furniture,Chair,2,225.23,450.46,South
+250,12/28/2024,2554,Anthony Reese,Timor-Leste,791,Sports,Football,8,580.96,4647.68,South
+251,1/29/2024,1420,Hayley Fox,Faroe Islands,568,Clothing,T-Shirt,1,692.81,692.81,East
+252,9/30/2023,4603,Martin Brown,Finland,720,Beauty,Shampoo,9,906.01,8154.09,West
+253,1/27/2025,1419,Brittany Robinson,Barbados,749,Sports,Bicycle,8,363.84,2910.72,West
+254,3/26/2025,7766,Anthony Houston,Marshall Islands,611,Clothing,Shoes,3,223.06,669.18,East
+255,9/23/2024,3607,Jonathan Wood,Djibouti,596,Beauty,Lotion,9,374.68,3372.12,West
+256,5/7/2024,4809,Justin Montgomery,Djibouti,931,Clothing,Jacket,1,133.47,133.47,North
+257,10/15/2024,2501,Beverly Estes,Mauritania,750,Beauty,Perfume,10,391.69,3916.9,South
+258,2/23/2025,8222,Christopher Benton,Benin,566,Beauty,Shampoo,8,832.7,6661.6,West
+259,12/26/2024,8352,Adam Burns,Nigeria,832,Electronics,Camera,1,238.79,238.79,West
+261,11/22/2023,4655,Karen Munoz,Central African Republic,910,Furniture,Couch,8,710.61,5684.88,West
+262,4/18/2025,9326,Cynthia Monroe,Nauru,945,Sports,Treadmill,3,768.92,2306.76,North
+263,8/15/2024,6624,Tammy Stewart,Bhutan,504,Sports,Basketball,1,845.16,845.16,West
+264,4/16/2025,2278,Andrea Sandoval,Hong Kong,699,Sports,Basketball,3,896.97,2690.91,East
+265,6/14/2025,3553,Lindsay Taylor,Jamaica,926,Clothing,T-Shirt,4,120.23,480.92,East
+266,3/27/2024,6695,David Russo,Saint Barthelemy,508,Sports,Basketball,7,411.45,2880.15,North
+267,10/28/2024,7856,Theresa Garcia,Saint Barthelemy,624,Electronics,Monitor,6,353.38,2120.28,North
+268,2/24/2025,5819,Thomas Morgan,Sudan,715,Sports,Tennis Racket,5,803.58,4017.9,North
+269,8/16/2024,2978,Savannah Shah,Saint Kitts and Nevis,874,Clothing,Jacket,1,69.89,69.89,East
+270,9/7/2024,2681,Rhonda Dunn,Aruba,876,Furniture,Desk,5,930.92,4654.6,West
+271,1/27/2024,6695,David Russo,Saint Barthelemy,750,Furniture,Desk,2,841.27,1682.54,North
+272,4/15/2024,2486,Scott Greene,United States of America,698,Clothing,Shoes,5,736.2,3681,South
+273,2/27/2025,2585,Jeffrey Chase,Montserrat,984,Sports,Football,9,336.54,3028.86,West
+274,2/8/2024,2278,Andrea Sandoval,Hong Kong,822,Beauty,Perfume,8,336.98,2695.84,South
+275,8/13/2023,2978,Savannah Shah,Saint Kitts and Nevis,884,Sports,Tennis Racket,9,229.17,2062.53,East
+276,10/24/2024,7417,Nicole Moses,Sweden,797,Sports,Basketball,10,585.22,5852.2,West
+277,12/30/2023,9703,Jeremy Baker,Cuba,624,Beauty,Shampoo,5,282.41,1412.05,North
+278,9/26/2024,9420,Brianna Yoder,Latvia,843,Beauty,Perfume,3,331.31,993.93,North
+279,8/5/2023,7870,Christopher Curtis,Oman,873,Beauty,Nail Polish,5,575.74,2878.7,South
+280,2/28/2024,6274,Daniel Madden,Armenia,892,Sports,Bicycle,10,421.08,4210.8,North
+281,1/21/2025,6466,Jerry Schneider,United Arab Emirates,954,Sports,Basketball,1,843.76,843.76,South
+282,2/26/2024,3927,Tracy Castillo,Sudan,808,Beauty,Makeup,10,956.31,9563.1,South
+283,5/19/2024,3229,Victor Vazquez,Australia,961,Electronics,Laptop,2,160.4,320.8,South
+284,6/27/2024,5684,Dennis Mack,Tonga,743,Clothing,Shoes,2,666.05,1332.1,South
+285,2/10/2024,9991,Tyler Chapman,Afghanistan,606,Furniture,Chair,1,79.09,79.09,East
+286,6/8/2024,2884,Lorraine Kim,Venezuela,823,Clothing,Socks,10,838.8,8388,East
+287,11/19/2024,2377,Heather Smith,Burkina Faso,679,Clothing,T-Shirt,9,63.71,573.39,North
+288,7/21/2024,7766,Anthony Houston,Marshall Islands,507,Clothing,Jacket,2,91.98,183.96,South
+289,6/14/2024,6093,Ashley Russo,Liberia,901,Electronics,Smartphone,9,842.56,7583.04,North
+290,11/12/2023,6654,Brian Mccarthy,Anguilla,628,Electronics,Monitor,5,86.98,434.9,West
+291,9/17/2023,5909,Sharon Ramos,Angola,999,Clothing,Jacket,1,654.31,654.31,North
+292,4/27/2025,8757,Michael Mendoza,Estonia,724,Furniture,Desk,5,385.13,1925.65,West
+293,9/10/2023,9420,Brianna Yoder,Latvia,631,Sports,Bicycle,1,515.57,515.57,East
+294,11/18/2024,2599,Benjamin Hart,Saudi Arabia,926,Furniture,Couch,10,664.13,6641.3,East
+295,10/5/2023,5819,Thomas Morgan,Sudan,766,Beauty,Nail Polish,4,682.2,2728.8,East
+296,5/20/2024,5323,Elizabeth Woodard,Indonesia,614,Furniture,Table,5,716.71,3583.55,East
+297,11/11/2024,3335,Justin Ellis,Estonia,566,Beauty,Nail Polish,3,162.87,488.61,West
+298,10/13/2023,3835,Dennis Harris,Saint Pierre and Miquelon,949,Sports,Bicycle,6,645.24,3871.44,North
+299,5/27/2024,4082,Rachael Lawson,Bosnia and Herzegovina,997,Furniture,Chair,4,458.44,1833.76,West
+300,6/11/2025,9594,Miss Alexandra Scott,Netherlands,849,Beauty,Lotion,9,667.94,6011.46,West
+301,8/6/2024,9035,Nathaniel Long,Macedonia,622,Beauty,Shampoo,7,954.62,6682.34,North
+302,3/24/2025,3607,Jonathan Wood,Djibouti,701,Electronics,Camera,2,203.18,406.36,East
+303,7/3/2024,5043,Cheryl Young,Belgium,646,Furniture,Bed,4,323.17,1292.68,West
+304,1/14/2024,5819,Thomas Morgan,Sudan,588,Furniture,Desk,7,560.37,3922.59,West
+305,12/23/2023,2918,Christopher Scott,Gibraltar,898,Electronics,Laptop,5,980.73,4903.65,North
+306,8/14/2023,3477,Linda Lopez,Svalbard & Jan Mayen Islands,837,Sports,Basketball,3,250.91,752.73,South
+307,10/30/2023,5909,Sharon Ramos,Angola,816,Beauty,Makeup,4,78.7,314.8,South
+308,4/25/2024,7351,Joshua Rojas,Lebanon,546,Sports,Bicycle,8,598.71,4789.68,South
+309,2/18/2024,9887,Arthur Cortez,French Polynesia,822,Clothing,Socks,2,976.07,1952.14,West
+310,11/19/2024,8379,David Kelley,Guinea,954,Clothing,Jacket,10,541.62,5416.2,North
+311,1/31/2024,7295,Michael Johnson,Eritrea,647,Sports,Bicycle,10,533.2,5332,West
+312,4/14/2025,6282,Kathryn Henry,Niue,842,Electronics,Headphones,8,648.37,5186.96,West
+313,6/1/2024,1440,Miguel Johnson,Estonia,718,Clothing,T-Shirt,1,32.32,32.32,South
+314,9/17/2024,8604,Timothy Henson,Mayotte,609,Clothing,Socks,2,313.87,627.74,West
+315,11/2/2024,1161,Juan Montoya,Egypt,879,Beauty,Shampoo,9,233.62,2102.58,East
+316,3/23/2024,9107,Jason Miller,Palau,657,Clothing,Jacket,7,946.89,6628.23,East
+317,1/17/2024,2278,Andrea Sandoval,Hong Kong,598,Sports,Tennis Racket,10,704.78,7047.8,North
+318,1/3/2025,3976,Leslie Torres,Niger,528,Clothing,Shoes,9,222.82,2005.38,South
+319,9/21/2024,3659,Tanya Franklin,Peru,730,Clothing,Jacket,2,456.81,913.62,South
+320,5/11/2025,2020,Melanie Gonzalez,Montserrat,976,Beauty,Shampoo,9,540.29,4862.61,North
+321,3/20/2024,7870,Christopher Curtis,Oman,849,Beauty,Makeup,8,170.87,1366.96,South
+322,12/7/2024,5427,Jack Hoover,Malaysia,852,Sports,Football,10,104.94,1049.4,South
+324,12/3/2023,8341,Nathaniel Johns,Macedonia,623,Electronics,Headphones,9,853.84,7684.56,South
+325,7/31/2023,7351,Joshua Rojas,Lebanon,574,Furniture,Chair,6,958.29,5749.74,East
+326,9/17/2024,6625,Jonathan Evans,Wallis and Futuna,784,Beauty,Perfume,9,144.03,1296.27,North
+328,5/12/2024,2672,Annette Phillips,Guadeloupe,797,Clothing,Jeans,1,542.29,542.29,West
+329,1/16/2024,9388,Cheryl Stone,Slovakia (Slovak Republic),553,Electronics,Smartphone,2,807.28,1614.56,North
+330,2/23/2025,8437,Francisco Beasley,Brazil,590,Furniture,Bed,8,934.47,7475.76,West
+331,10/27/2024,3229,Victor Vazquez,Australia,565,Beauty,Perfume,5,364.85,1824.25,South
+332,3/28/2025,2924,Amanda Hayden,Jersey,762,Sports,Bicycle,10,584.14,5841.4,North
+333,8/7/2023,9451,Ashley Williams,Uzbekistan,554,Sports,Treadmill,6,499.25,2995.5,North
+334,10/18/2023,4655,Karen Munoz,Central African Republic,898,Clothing,T-Shirt,2,580.29,1160.58,East
+335,12/22/2024,9233,Justin Burgess,Israel,747,Clothing,T-Shirt,1,305.41,305.41,North
+336,1/17/2025,7494,Christopher Leon,New Zealand,682,Electronics,Laptop,9,80.8,727.2,West
+337,5/13/2025,2377,Heather Smith,Burkina Faso,810,Sports,Basketball,3,781.13,2343.39,East
+338,3/9/2024,5996,Jessica Kelly,Turkmenistan,746,Beauty,Makeup,2,631.3,1262.6,East
+339,3/13/2024,9404,Mrs. Tricia Newton MD,Vanuatu,753,Electronics,Headphones,5,47.99,239.95,East
+340,9/12/2023,2672,Annette Phillips,Guadeloupe,511,Furniture,Table,5,198.49,992.45,North
+341,2/25/2024,5285,Joshua Stephens,Korea,531,Clothing,Socks,7,331.03,2317.21,South
+342,4/18/2024,8437,Francisco Beasley,Brazil,966,Sports,Football,10,143.32,1433.2,North
+343,8/22/2023,5493,Calvin Jimenez,Gabon,593,Furniture,Desk,6,609.79,3658.74,West
+344,3/17/2025,5061,Dennis Carey,Norfolk Island,978,Clothing,Socks,10,274.18,2741.8,East
+345,4/27/2025,8341,Nathaniel Johns,Macedonia,688,Beauty,Shampoo,7,835.62,5849.34,South
+346,5/11/2025,9938,William Rivera,Mongolia,602,Electronics,Laptop,10,780.91,7809.1,North
+347,2/25/2025,2746,Jesse Krause,Lesotho,793,Electronics,Smartphone,9,849.21,7642.89,South
+348,6/23/2024,2305,Robert Hill,Italy,580,Sports,Tennis Racket,2,959.29,1918.58,West
+349,1/1/2025,9991,Tyler Chapman,Afghanistan,895,Clothing,T-Shirt,4,304.43,1217.72,South
+350,1/16/2024,1008,Nicholas Barnes,United Arab Emirates,542,Clothing,Jacket,10,249.81,2498.1,West
+351,10/14/2023,5323,Elizabeth Woodard,Indonesia,868,Beauty,Nail Polish,6,917.27,5503.62,West
+352,11/23/2023,1405,Tracey Robbins,Samoa,799,Clothing,Jeans,6,849.64,5097.84,North
+353,3/23/2025,8433,Jacob Norris,South Georgia and the South Sandwich Islands,630,Clothing,Jacket,5,962.18,4810.9,East
+354,5/7/2024,3659,Tanya Franklin,Peru,747,Clothing,T-Shirt,8,768.7,6149.6,West
+355,12/31/2023,4484,Dr. Andrea Lopez,Kuwait,756,Electronics,Laptop,10,797.19,7971.9,South
+356,11/2/2023,2734,Erica Brown,Libyan Arab Jamahiriya,661,Sports,Basketball,5,257.1,1285.5,West
+357,9/26/2023,1460,Jenny Diaz,Mayotte,576,Electronics,Monitor,5,790.35,3951.75,South
+358,10/20/2023,2486,Scott Greene,United States of America,807,Sports,Tennis Racket,2,633.65,1267.3,West
+359,2/25/2025,1792,Patrick Brown,French Southern Territories,681,Beauty,Nail Polish,6,225.96,1355.76,South
+360,2/11/2024,4307,Matthew Espinoza,Zimbabwe,559,Furniture,Table,7,46.73,327.11,West
+361,12/27/2023,4655,Karen Munoz,Central African Republic,702,Electronics,Monitor,3,637.94,1913.82,West
+362,5/6/2024,6891,Mark West,Japan,924,Beauty,Perfume,9,71.5,643.5,West
+363,2/21/2025,6357,Kylie Mclaughlin,Wallis and Futuna,720,Sports,Bicycle,4,902.92,3611.68,South
+364,7/24/2023,2486,Scott Greene,United States of America,776,Clothing,Jacket,9,631.51,5683.59,North
+365,10/7/2024,9887,Arthur Cortez,French Polynesia,577,Sports,Football,9,915.75,8241.75,North
+366,5/18/2025,5493,Calvin Jimenez,Gabon,741,Clothing,Socks,9,973.52,8761.68,South
+367,10/9/2024,4809,Justin Montgomery,Djibouti,883,Clothing,T-Shirt,10,96.58,965.8,South
+368,5/29/2025,8341,Nathaniel Johns,Macedonia,680,Clothing,Jeans,2,977.99,1955.98,East
+369,5/18/2025,6624,Tammy Stewart,Bhutan,613,Furniture,Table,1,457.31,457.31,South
+370,4/11/2024,5625,Kenneth Hill,Micronesia,662,Beauty,Lotion,10,732.62,7326.2,East
+371,10/4/2024,8386,Ronnie Wells,Faroe Islands,841,Electronics,Laptop,5,777.43,3887.15,North
+372,7/7/2024,3258,Reginald Middleton,South Georgia and the South Sandwich Islands,802,Furniture,Couch,7,123.38,863.66,North
+373,4/28/2024,6989,Ronald Stewart,Yemen,806,Clothing,Socks,7,119.6,837.2,South
+374,7/20/2024,8213,Jacob Henry,Philippines,522,Clothing,Jacket,8,99.25,794,West
+376,11/18/2024,6883,Tamara Perez,Nigeria,633,Furniture,Table,3,257.68,773.04,North
+377,9/3/2024,6989,Ronald Stewart,Yemen,597,Sports,Bicycle,3,617.08,1851.24,South
+379,12/28/2023,9420,Brianna Yoder,Latvia,984,Furniture,Table,7,401.11,2807.77,South
+380,12/24/2024,1355,Lindsey Peterson,Saint Kitts and Nevis,695,Electronics,Monitor,1,558.31,558.31,South
+381,9/2/2024,6654,Brian Mccarthy,Anguilla,514,Furniture,Couch,2,807.33,1614.66,East
+382,10/28/2023,7766,Anthony Houston,Marshall Islands,943,Electronics,Monitor,2,557.19,1114.38,North
+383,3/28/2024,8384,Todd Baker,Rwanda,577,Furniture,Couch,6,750.2,4501.2,South
+384,3/4/2024,2978,Savannah Shah,Saint Kitts and Nevis,691,Furniture,Table,6,303.8,1822.8,West
+385,9/19/2024,1405,Tracey Robbins,Samoa,544,Furniture,Desk,1,196.75,196.75,West
+386,6/8/2025,3193,Kevin Jenkins,Taiwan,560,Beauty,Makeup,8,967.14,7737.12,South
+387,2/6/2025,7538,Michael Brooks,Belize,533,Clothing,Socks,9,670.6,6035.4,East
+388,11/14/2024,9001,Diane Lawrence,Turks and Caicos Islands,588,Clothing,Shoes,8,412.19,3297.52,North
+389,8/13/2023,6282,Kathryn Henry,Niue,587,Sports,Basketball,1,604.49,604.49,West
+390,6/7/2024,9684,David Perry,Liechtenstein,506,Beauty,Shampoo,4,236.75,947,East
+391,1/18/2024,8305,Wayne Stokes,Mali,938,Clothing,T-Shirt,6,381.68,2290.08,North
+392,3/18/2024,3659,Tanya Franklin,Peru,877,Clothing,Jacket,3,624.1,1872.3,West
+393,5/6/2025,2599,Benjamin Hart,Saudi Arabia,517,Sports,Football,10,233.16,2331.6,South
+394,3/9/2025,3767,Monica Ortega,American Samoa,531,Furniture,Bed,6,848.67,5092.02,East
+395,4/25/2025,9583,David Farley,Afghanistan,991,Furniture,Bed,9,470.28,4232.52,West
+396,12/17/2023,7143,Timothy French,Ireland,731,Sports,Treadmill,10,972.7,9727,North
+397,1/30/2025,7143,Timothy French,Ireland,517,Furniture,Table,9,994.51,8950.59,West
+398,4/10/2024,4664,Eric Olson,Belize,660,Clothing,T-Shirt,8,746.48,5971.84,South
+399,11/9/2024,2132,Alicia Cannon,Pitcairn Islands,560,Sports,Tennis Racket,3,155.54,466.62,East
+400,3/29/2024,7890,Whitney Stewart,Barbados,619,Clothing,Jeans,9,802.38,7221.42,North
+401,6/30/2024,4319,Fred Hanson,Hungary,958,Clothing,T-Shirt,9,686.35,6177.15,North
+402,5/7/2024,5427,Jack Hoover,Malaysia,829,Clothing,Socks,10,428.47,4284.7,West
+403,7/18/2024,4550,Christina Rodriguez,Albania,998,Beauty,Perfume,4,976.64,3906.56,North
+404,2/18/2024,2585,Jeffrey Chase,Montserrat,802,Clothing,Jacket,6,486.98,2921.88,West
+405,12/13/2024,1420,Hayley Fox,Faroe Islands,909,Beauty,Makeup,7,190.4,1332.8,East
+406,11/30/2023,7856,Theresa Garcia,Saint Barthelemy,621,Furniture,Table,8,877.89,7023.12,East
+407,12/24/2024,2599,Benjamin Hart,Saudi Arabia,800,Sports,Basketball,6,642.04,3852.24,West
+408,8/2/2023,2498,Kristin Villegas,Canada,642,Sports,Basketball,3,502,1506,East
+409,10/28/2024,8255,Michelle Fields,Isle of Man,648,Furniture,Bed,3,986.3,2958.9,West
+410,5/8/2024,9326,Cynthia Monroe,Nauru,651,Sports,Treadmill,3,971.83,2915.49,West
+411,9/4/2024,5458,Michael Waller,India,728,Clothing,Jacket,6,185.01,1110.06,East
+412,1/14/2025,4800,Michael Pugh PhD,Belgium,869,Clothing,Jeans,2,339.67,679.34,East
+413,4/24/2024,4211,Rachael Woods,Sri Lanka,702,Sports,Basketball,7,371.46,2600.22,East
+414,3/26/2024,8882,Samuel Brown,Myanmar,595,Electronics,Monitor,10,363.77,3637.7,South
+415,5/21/2024,2231,Laurie Wise,Cook Islands,749,Beauty,Lotion,7,703.91,4927.37,South
+416,10/25/2024,2918,Christopher Scott,Gibraltar,877,Sports,Basketball,2,743.19,1486.38,North
+417,5/30/2024,4804,Jenna Robinson,Venezuela,680,Beauty,Perfume,2,162.24,324.48,East
+418,1/30/2025,3193,Kevin Jenkins,Taiwan,703,Clothing,Jeans,10,554.54,5545.4,South
+420,5/3/2024,4809,Justin Montgomery,Djibouti,819,Sports,Football,5,706.54,3532.7,South
+421,7/15/2024,3640,Pamela Allen,Iceland,658,Electronics,Laptop,10,197.45,1974.5,North
+422,11/21/2023,5684,Dennis Mack,Tonga,556,Beauty,Makeup,1,268.83,268.83,East
+423,8/18/2023,2554,Anthony Reese,Timor-Leste,995,Clothing,Shoes,8,341.9,2735.2,North
+424,4/11/2024,4501,Savannah Ross,Pitcairn Islands,682,Electronics,Smartphone,1,332.86,332.86,North
+425,12/11/2024,7143,Timothy French,Ireland,837,Furniture,Desk,4,297.05,1188.2,West
+426,12/26/2023,2486,Scott Greene,United States of America,701,Furniture,Table,3,265.81,797.43,North
+427,12/21/2023,6282,Kathryn Henry,Niue,577,Beauty,Makeup,7,802.84,5619.88,South
+428,1/28/2025,9684,David Perry,Liechtenstein,604,Clothing,Shoes,6,762.05,4572.3,West
+429,11/7/2023,6590,Dawn Garza,Palau,846,Clothing,Shoes,10,172.54,1725.4,North
+430,2/15/2024,6654,Brian Mccarthy,Anguilla,756,Clothing,Jacket,9,866.1,7794.9,North
+431,10/6/2024,6466,Jerry Schneider,United Arab Emirates,574,Beauty,Shampoo,3,671.49,2014.47,West
+433,9/17/2024,5017,James Henderson,Monaco,594,Beauty,Perfume,3,776.89,2330.67,North
+434,11/16/2024,5698,Thomas Robinson,Belize,714,Sports,Bicycle,7,27.49,192.43,South
+435,4/23/2025,7870,Christopher Curtis,Oman,809,Clothing,Shoes,3,908.16,2724.48,South
+436,4/18/2024,8757,Michael Mendoza,Estonia,958,Furniture,Chair,6,528.91,3173.46,West
+438,11/24/2023,6989,Ronald Stewart,Yemen,966,Beauty,Perfume,2,761.78,1523.56,West
+439,10/30/2024,4484,Dr. Andrea Lopez,Kuwait,757,Furniture,Bed,5,143.57,717.85,West
+440,8/21/2024,6466,Jerry Schneider,United Arab Emirates,895,Sports,Football,1,57.17,57.17,East
+441,10/30/2024,2231,Laurie Wise,Cook Islands,746,Beauty,Shampoo,8,601.05,4808.4,North
+442,5/3/2025,9233,Justin Burgess,Israel,538,Beauty,Shampoo,3,612.71,1838.13,North
+443,2/4/2025,4804,Jenna Robinson,Venezuela,914,Furniture,Desk,1,678.23,678.23,South
+444,2/3/2025,8437,Francisco Beasley,Brazil,607,Electronics,Smartphone,4,178.73,714.92,North
+445,8/12/2024,6989,Ronald Stewart,Yemen,754,Furniture,Bed,2,741.48,1482.96,East
+446,2/21/2025,1349,Holly Jones,Solomon Islands,646,Clothing,Shoes,10,324.12,3241.2,East
+447,6/11/2025,8046,Claire Hobbs,Italy,566,Clothing,Jacket,3,495.25,1485.75,West
+448,10/2/2023,1420,Hayley Fox,Faroe Islands,795,Beauty,Lotion,2,301.62,603.24,South
+449,1/3/2025,5808,Susan Powers,Iceland,874,Electronics,Laptop,2,465.78,931.56,North
+450,4/2/2025,2554,Anthony Reese,Timor-Leste,641,Sports,Bicycle,9,560.17,5041.53,North
+451,6/22/2025,4501,Savannah Ross,Pitcairn Islands,698,Beauty,Nail Polish,4,921.5,3686,East
+452,8/17/2023,5174,Larry Mack,Croatia,662,Electronics,Laptop,7,908.7,6360.9,South
+453,8/16/2024,4763,Christopher James,Tunisia,981,Beauty,Perfume,7,956.57,6695.99,North
+454,3/28/2025,3565,James Rose,Zimbabwe,567,Furniture,Couch,10,512.1,5121,South
+455,12/13/2024,3780,Jesse Michael,Morocco,958,Electronics,Smartphone,4,117.37,469.48,North
+456,12/30/2024,9991,Tyler Chapman,Afghanistan,994,Clothing,Socks,10,890.18,8901.8,North
+457,5/23/2024,1497,Sarah Nielsen,Kiribati,905,Sports,Basketball,9,393.89,3545.01,West
+458,2/2/2025,8190,Michael Ellis,Saint Lucia,569,Sports,Football,1,35.49,35.49,South
+459,1/24/2025,3607,Jonathan Wood,Djibouti,753,Beauty,Makeup,7,429.23,3004.61,West
+460,10/12/2023,5819,Thomas Morgan,Sudan,875,Sports,Bicycle,7,825.2,5776.4,North
+461,10/13/2023,4148,Gary Torres,Malawi,876,Beauty,Shampoo,7,691,4837,West
+462,6/13/2024,2447,Mario Bates,Ecuador,528,Electronics,Laptop,1,884.38,884.38,East
+463,3/20/2024,9233,Justin Burgess,Israel,865,Electronics,Smartphone,4,31.88,127.52,North
+464,9/1/2024,1158,Jessica Morrison,Guernsey,545,Sports,Bicycle,9,299.46,2695.14,North
+465,10/19/2024,1349,Holly Jones,Solomon Islands,892,Electronics,Headphones,8,355.82,2846.56,North
+466,6/18/2024,8305,Wayne Stokes,Mali,525,Beauty,Nail Polish,7,707.24,4950.68,East
+467,3/19/2025,3976,Leslie Torres,Niger,951,Sports,Football,10,324.53,3245.3,South
+468,4/6/2024,8882,Samuel Brown,Myanmar,663,Clothing,Shoes,3,942.27,2826.81,West
+469,7/8/2024,8352,Adam Burns,Nigeria,897,Furniture,Chair,7,138.67,970.69,East
+470,2/2/2025,3659,Tanya Franklin,Peru,560,Clothing,Shoes,2,877.31,1754.62,West
+471,2/18/2025,8588,Ellen Horton,Mauritania,951,Beauty,Makeup,10,344.67,3446.7,West
+472,8/19/2024,4664,Eric Olson,Belize,721,Sports,Treadmill,1,993.62,993.62,West
+473,8/24/2024,5493,Calvin Jimenez,Gabon,933,Sports,Tennis Racket,9,416.69,3750.21,North
+474,3/15/2025,6590,Dawn Garza,Palau,783,Electronics,Camera,6,599.02,3594.12,South
+475,3/31/2025,8882,Samuel Brown,Myanmar,515,Beauty,Nail Polish,9,83.41,750.69,North
+476,6/11/2025,5698,Thomas Robinson,Belize,858,Sports,Tennis Racket,5,264.3,1321.5,East
+477,8/23/2023,2305,Robert Hill,Italy,598,Beauty,Makeup,7,896.23,6273.61,East
+478,12/10/2024,3411,Ashley Lang,Belgium,671,Electronics,Headphones,8,237.62,1900.96,South
+479,10/14/2023,3258,Reginald Middleton,South Georgia and the South Sandwich Islands,947,Beauty,Lotion,5,463.06,2315.3,West
+480,9/23/2024,4082,Rachael Lawson,Bosnia and Herzegovina,591,Furniture,Chair,6,536.1,3216.6,North
+481,11/7/2023,4763,Christopher James,Tunisia,952,Clothing,Jeans,4,69.38,277.52,North
+482,12/11/2023,5400,Jessica Weber,Guinea,636,Sports,Bicycle,3,144.88,434.64,East
+483,5/20/2024,2377,Heather Smith,Burkina Faso,654,Clothing,Jacket,1,777.93,777.93,West
+484,11/23/2024,4550,Christina Rodriguez,Albania,965,Clothing,Shoes,10,737.32,7373.2,West
+485,12/27/2024,9451,Ashley Williams,Uzbekistan,616,Sports,Treadmill,2,376.68,753.36,East
+486,11/24/2024,9420,Brianna Yoder,Latvia,793,Clothing,Socks,6,704.3,4225.8,South
+487,2/27/2025,3553,Lindsay Taylor,Jamaica,534,Furniture,Desk,8,883.04,7064.32,North
+488,5/4/2024,4896,Paul Gonzalez,Australia,602,Sports,Bicycle,6,985.09,5910.54,South
+489,1/8/2025,9233,Justin Burgess,Israel,741,Beauty,Nail Polish,3,543.65,1630.95,East
+490,7/22/2024,9951,Mikayla Garrett,Venezuela,874,Electronics,Camera,8,619.86,4958.88,West
+491,11/7/2023,8859,Tammy Zhang,Guam,623,Sports,Football,1,159.29,159.29,South
+492,10/12/2023,8433,Jacob Norris,South Georgia and the South Sandwich Islands,972,Clothing,T-Shirt,8,777.49,6219.92,South
+493,6/14/2024,2924,Amanda Hayden,Jersey,582,Electronics,Monitor,7,801.32,5609.24,West
+494,1/7/2025,3335,Justin Ellis,Estonia,684,Furniture,Desk,1,194.95,194.95,South
+495,3/30/2024,4484,Dr. Andrea Lopez,Kuwait,979,Beauty,Makeup,3,894.26,2682.78,North
+496,9/26/2023,5622,Aaron Cox,Mauritania,627,Sports,Bicycle,10,185.85,1858.5,West
+497,8/22/2024,9326,Cynthia Monroe,Nauru,924,Furniture,Couch,6,215.76,1294.56,North
+498,10/12/2023,4717,Emily Phillips,Armenia,705,Sports,Tennis Racket,9,699.47,6295.23,West
+499,12/6/2023,3193,Kevin Jenkins,Taiwan,705,Beauty,Lotion,2,161.4,322.8,East
+500,4/28/2024,9388,Cheryl Stone,Slovakia (Slovak Republic),911,Sports,Basketball,4,540.47,2161.88,South
+502,6/18/2024,1460,Jenny Diaz,Mayotte,809,Electronics,Smartphone,3,24.28,72.84,East
+503,2/24/2025,9326,Cynthia Monroe,Nauru,673,Furniture,Bed,10,75.57,755.7,North
+504,5/14/2024,4809,Justin Montgomery,Djibouti,601,Sports,Basketball,9,403.79,3634.11,North
+505,5/12/2024,9094,Erica Martin,Guadeloupe,668,Electronics,Monitor,5,877.94,4389.7,South
+506,11/3/2024,3607,Jonathan Wood,Djibouti,678,Sports,Tennis Racket,3,982.77,2948.31,West
+507,8/29/2024,4655,Karen Munoz,Central African Republic,903,Clothing,Shoes,9,372.41,3351.69,West
+508,2/26/2025,7295,Michael Johnson,Eritrea,703,Electronics,Camera,5,36.25,181.25,South
+509,9/26/2024,1460,Jenny Diaz,Mayotte,644,Furniture,Bed,2,611.37,1222.74,West
+510,7/24/2023,2672,Annette Phillips,Guadeloupe,662,Sports,Football,5,649.4,3247,North
+511,8/6/2024,7766,Anthony Houston,Marshall Islands,982,Sports,Basketball,2,935.11,1870.22,West
+512,8/21/2024,9388,Cheryl Stone,Slovakia (Slovak Republic),840,Electronics,Smartphone,4,486.78,1947.12,West
+513,9/19/2024,7259,Lisa Torres,Kuwait,581,Sports,Treadmill,4,473.91,1895.64,North
+514,4/14/2025,6624,Tammy Stewart,Bhutan,905,Beauty,Makeup,4,621.88,2487.52,East
+515,12/13/2024,5514,Jeremiah Fowler,Congo,944,Beauty,Perfume,1,175.37,175.37,South
+516,2/9/2024,8437,Francisco Beasley,Brazil,952,Furniture,Bed,5,635.57,3177.85,East
+518,3/24/2025,4989,Ann Lara,Bosnia and Herzegovina,889,Electronics,Laptop,6,359.41,2156.46,East
+520,10/14/2023,2746,Jesse Krause,Lesotho,562,Beauty,Shampoo,6,550.75,3304.5,South
+521,10/25/2024,1419,Brittany Robinson,Barbados,592,Electronics,Monitor,2,891.28,1782.56,West
+522,4/18/2025,8588,Ellen Horton,Mauritania,667,Furniture,Chair,9,69.08,621.72,East
+523,7/6/2024,1712,Karen Williams MD,Netherlands Antilles,542,Beauty,Nail Polish,6,470.32,2821.92,North
+524,4/27/2024,8443,Joseph Wise,Jersey,918,Clothing,Socks,4,854.54,3418.16,South
+525,4/27/2025,7242,Benjamin Peterson,Niger,816,Furniture,Couch,4,641.42,2565.68,West
+526,9/23/2023,9388,Cheryl Stone,Slovakia (Slovak Republic),875,Beauty,Perfume,2,897.7,1795.4,West
+527,7/31/2023,7351,Joshua Rojas,Lebanon,594,Clothing,Jacket,5,905.41,4527.05,East
+528,6/17/2025,1355,Lindsey Peterson,Saint Kitts and Nevis,704,Sports,Treadmill,6,67.44,404.64,West
+529,12/15/2024,3553,Lindsay Taylor,Jamaica,954,Sports,Treadmill,4,745.29,2981.16,South
+530,8/28/2023,2020,Melanie Gonzalez,Montserrat,996,Electronics,Headphones,5,816.41,4082.05,West
+531,11/13/2024,4664,Eric Olson,Belize,574,Electronics,Monitor,7,654.66,4582.62,South
+532,3/10/2025,6654,Brian Mccarthy,Anguilla,922,Furniture,Chair,7,756.58,5296.06,West
+533,2/6/2024,5851,John Flores,Liberia,740,Beauty,Shampoo,7,789.15,5524.05,East
+534,1/24/2025,3477,Linda Lopez,Svalbard & Jan Mayen Islands,898,Furniture,Bed,1,773.59,773.59,South
+535,12/7/2024,9895,Matthew Stark,Libyan Arab Jamahiriya,578,Electronics,Laptop,10,930.2,9302,West
+536,3/8/2024,8942,Dean Russell,Belarus,767,Clothing,Jeans,8,109.56,876.48,North
+537,3/15/2024,5043,Cheryl Young,Belgium,977,Clothing,Jacket,2,279.9,559.8,East
+538,1/26/2025,5678,Lisa Williams,Niue,669,Beauty,Perfume,6,825.03,4950.18,South
+539,5/28/2024,7143,Timothy French,Ireland,911,Sports,Treadmill,4,246.05,984.2,East
+540,3/14/2025,5622,Aaron Cox,Mauritania,845,Sports,Bicycle,1,606.11,606.11,East
+541,12/7/2024,5493,Calvin Jimenez,Gabon,911,Beauty,Perfume,10,336.18,3361.8,West
+542,3/28/2024,3780,Jesse Michael,Morocco,932,Electronics,Headphones,7,26.21,183.47,South
+543,2/8/2025,7107,Randall Robinson,Senegal,711,Electronics,Laptop,1,494.19,494.19,North
+544,9/14/2024,5458,Michael Waller,India,990,Sports,Basketball,10,732.52,7325.2,South
+545,2/15/2025,6825,Katie Cooke,Greece,776,Beauty,Perfume,9,762.77,6864.93,West
+546,4/11/2024,4804,Jenna Robinson,Venezuela,959,Clothing,Jeans,5,666.68,3333.4,West
+547,1/31/2025,1604,Tammy Miles,Chile,783,Sports,Tennis Racket,6,530.82,3184.92,North
+548,6/9/2024,6466,Jerry Schneider,United Arab Emirates,771,Electronics,Smartphone,1,223.14,223.14,North
+549,1/21/2024,2978,Savannah Shah,Saint Kitts and Nevis,781,Electronics,Smartphone,10,794.78,7947.8,East
+550,4/14/2024,9703,Jeremy Baker,Cuba,954,Clothing,T-Shirt,4,476.87,1907.48,East
+551,9/24/2024,4550,Christina Rodriguez,Albania,992,Clothing,Jacket,6,220.06,1320.36,North
+552,9/19/2024,1355,Lindsey Peterson,Saint Kitts and Nevis,984,Furniture,Table,1,55.66,55.66,West
+553,12/18/2024,6989,Ronald Stewart,Yemen,977,Furniture,Table,6,224.25,1345.5,West
+554,10/25/2024,6624,Tammy Stewart,Bhutan,972,Sports,Football,7,97.39,681.73,East
+555,11/1/2024,4655,Karen Munoz,Central African Republic,943,Electronics,Headphones,4,126.3,505.2,North
+556,2/17/2024,8761,Sara Green,Nicaragua,767,Beauty,Perfume,10,454.54,4545.4,East
+558,9/22/2023,8604,Timothy Henson,Mayotte,613,Sports,Tennis Racket,10,840.76,8407.6,West
+559,2/17/2025,6031,Stephanie Lewis,Korea,848,Clothing,Jeans,10,87.23,872.3,West
+560,9/30/2023,8190,Michael Ellis,Saint Lucia,990,Clothing,Shoes,8,576.83,4614.64,West
+561,12/26/2023,4082,Rachael Lawson,Bosnia and Herzegovina,671,Sports,Basketball,1,354.45,354.45,East
+562,7/28/2023,7856,Theresa Garcia,Saint Barthelemy,937,Electronics,Laptop,6,699.26,4195.56,West
+563,2/22/2025,9938,William Rivera,Mongolia,552,Electronics,Camera,9,107.66,968.94,South
+564,11/20/2023,9420,Brianna Yoder,Latvia,923,Beauty,Lotion,8,771.69,6173.52,East
+565,3/3/2024,8305,Wayne Stokes,Mali,929,Sports,Bicycle,10,353.19,3531.9,East
+566,10/19/2023,5400,Jessica Weber,Guinea,726,Electronics,Headphones,4,77.84,311.36,South
+568,1/9/2025,4305,Jennifer Gardner,Slovakia (Slovak Republic),797,Furniture,Table,3,879.12,2637.36,East
+569,12/1/2023,4988,Lori Medina,Gibraltar,680,Sports,Bicycle,1,708.58,708.58,North
+570,1/21/2025,2585,Jeffrey Chase,Montserrat,576,Furniture,Bed,8,237.48,1899.84,North
+571,8/26/2024,9232,Vincent Johnson,Pakistan,529,Sports,Treadmill,2,99.97,199.94,North
+572,6/23/2024,4989,Ann Lara,Bosnia and Herzegovina,894,Beauty,Makeup,8,51.5,412,North
+573,1/9/2024,5048,Frank Chandler,Mayotte,700,Beauty,Lotion,2,99.47,198.94,South
+574,8/7/2023,5996,Jessica Kelly,Turkmenistan,555,Clothing,Jeans,1,205.37,205.37,South
+575,4/24/2024,2305,Robert Hill,Italy,847,Furniture,Bed,10,562.52,5625.2,East
+576,8/6/2023,5427,Jack Hoover,Malaysia,872,Furniture,Table,4,879.64,3518.56,East
+577,7/24/2023,3032,Matthew Manning,Malawi,542,Beauty,Shampoo,5,27.69,138.45,East
+578,1/21/2025,8379,David Kelley,Guinea,824,Furniture,Chair,7,660.65,4624.55,South
+579,7/25/2024,3335,Justin Ellis,Estonia,771,Sports,Treadmill,8,216.72,1733.76,West
+580,6/4/2025,4148,Gary Torres,Malawi,742,Electronics,Laptop,6,385.87,2315.22,North
+581,5/23/2025,4705,Felicia Garcia,Czech Republic,723,Sports,Tennis Racket,9,32.7,294.3,South
+582,8/28/2024,8882,Samuel Brown,Myanmar,931,Sports,Treadmill,9,222.92,2006.28,South
+583,2/29/2024,5285,Joshua Stephens,Korea,737,Sports,Tennis Racket,3,373.07,1119.21,South
+584,10/27/2023,6825,Katie Cooke,Greece,799,Beauty,Perfume,7,523.78,3666.46,West
+585,2/27/2025,3258,Reginald Middleton,South Georgia and the South Sandwich Islands,611,Electronics,Headphones,8,348.84,2790.72,East
+586,8/23/2024,9107,Jason Miller,Palau,919,Sports,Basketball,5,799.61,3998.05,East
+587,8/7/2024,4484,Dr. Andrea Lopez,Kuwait,754,Beauty,Makeup,5,839.94,4199.7,South
+588,4/3/2025,2278,Andrea Sandoval,Hong Kong,644,Furniture,Chair,1,296.28,296.28,West
+589,7/28/2024,9895,Matthew Stark,Libyan Arab Jamahiriya,977,Electronics,Laptop,8,563.4,4507.2,East
+590,2/26/2025,8433,Jacob Norris,South Georgia and the South Sandwich Islands,722,Beauty,Makeup,5,801.98,4009.9,South
+592,9/7/2024,8437,Francisco Beasley,Brazil,989,Sports,Basketball,7,733.69,5135.83,North
+593,11/18/2024,1908,Stanley Grant,Angola,829,Sports,Tennis Racket,8,384.12,3072.96,East
+594,2/25/2024,4319,Fred Hanson,Hungary,888,Sports,Basketball,9,485.99,4373.91,South
+595,1/17/2025,4902,Kenneth Meyer,Ireland,711,Furniture,Table,5,297.24,1486.2,North
+596,2/24/2024,2734,Erica Brown,Libyan Arab Jamahiriya,887,Furniture,Bed,9,722.64,6503.76,North
+597,5/19/2024,6891,Mark West,Japan,570,Furniture,Table,3,266.92,800.76,South
+598,12/1/2024,4902,Kenneth Meyer,Ireland,547,Sports,Basketball,1,943.45,943.45,East
+599,8/5/2023,6891,Mark West,Japan,660,Furniture,Couch,6,602.77,3616.62,West
+600,12/17/2023,8352,Adam Burns,Nigeria,814,Sports,Bicycle,6,837.61,5025.66,East
+601,12/15/2023,6624,Tammy Stewart,Bhutan,723,Electronics,Monitor,5,182.74,913.7,West
+602,11/21/2024,3780,Jesse Michael,Morocco,766,Sports,Treadmill,10,465.22,4652.2,West
+603,1/24/2025,9052,Daniel Schmidt II,Congo,974,Furniture,Desk,1,888.39,888.39,East
+604,2/11/2025,2501,Beverly Estes,Mauritania,654,Clothing,T-Shirt,7,256.86,1798.02,East
+605,9/7/2023,8942,Dean Russell,Belarus,672,Furniture,Desk,10,987.62,9876.2,North
+606,9/15/2023,7766,Anthony Houston,Marshall Islands,949,Furniture,Desk,1,540.85,540.85,North
+607,10/7/2023,5625,Kenneth Hill,Micronesia,669,Electronics,Headphones,2,204.46,408.92,East
+608,12/22/2023,9951,Mikayla Garrett,Venezuela,701,Clothing,Socks,8,779.6,6236.8,West
+609,9/1/2024,6825,Katie Cooke,Greece,870,Sports,Football,1,801.64,801.64,West
+610,7/23/2024,1419,Brittany Robinson,Barbados,691,Beauty,Shampoo,3,593,1779,South
+611,3/1/2025,4804,Jenna Robinson,Venezuela,809,Sports,Football,4,366.48,1465.92,East
+612,12/17/2024,1540,Angela Mcdaniel,Senegal,815,Beauty,Nail Polish,7,26.03,182.21,South
+613,5/28/2024,5017,James Henderson,Monaco,720,Sports,Treadmill,10,704.15,7041.5,East
+614,12/12/2024,9816,Joe Williams,Angola,713,Beauty,Perfume,8,589.31,4714.48,West
+616,9/3/2023,6093,Ashley Russo,Liberia,767,Furniture,Couch,3,567.55,1702.65,West
+617,3/21/2025,9227,Troy Wagner,Palau,633,Clothing,Shoes,4,531.81,2127.24,South
+618,12/10/2024,9938,William Rivera,Mongolia,843,Beauty,Perfume,1,95.62,95.62,West
+619,4/8/2025,2746,Jesse Krause,Lesotho,739,Electronics,Smartphone,3,856.79,2570.37,North
+620,2/5/2025,8222,Christopher Benton,Benin,829,Furniture,Desk,7,553.43,3874.01,North
+621,2/16/2025,1420,Hayley Fox,Faroe Islands,612,Sports,Football,8,71.25,570,West
+622,6/20/2025,8046,Claire Hobbs,Italy,546,Electronics,Laptop,3,293.53,880.59,West
+623,4/16/2025,4148,Gary Torres,Malawi,813,Furniture,Table,2,985.81,1971.62,South
+624,1/25/2025,6274,Daniel Madden,Armenia,613,Sports,Treadmill,8,209.61,1676.88,West
+625,2/27/2025,3780,Jesse Michael,Morocco,546,Electronics,Laptop,8,105.63,845.04,South
+626,2/12/2025,6883,Tamara Perez,Nigeria,573,Sports,Football,9,127.82,1150.38,West
+627,12/15/2023,9227,Troy Wagner,Palau,946,Sports,Tennis Racket,5,669.68,3348.4,East
+628,2/13/2025,2305,Robert Hill,Italy,624,Electronics,Headphones,6,442.56,2655.36,West
+629,8/12/2024,1161,Juan Montoya,Egypt,551,Furniture,Couch,10,344.53,3445.3,North
+630,6/11/2025,4211,Rachael Woods,Sri Lanka,544,Sports,Bicycle,4,860.73,3442.92,East
+631,9/10/2024,4655,Karen Munoz,Central African Republic,674,Sports,Bicycle,9,865.18,7786.62,North
+633,1/13/2025,1008,Nicholas Barnes,United Arab Emirates,690,Electronics,Laptop,1,619.56,619.56,South
+634,5/14/2024,2132,Alicia Cannon,Pitcairn Islands,703,Electronics,Smartphone,10,143.2,1432,North
+635,11/10/2024,8761,Sara Green,Nicaragua,981,Electronics,Smartphone,9,526.05,4734.45,North
+636,9/9/2023,5622,Aaron Cox,Mauritania,973,Electronics,Smartphone,5,296.23,1481.15,West
+637,7/9/2024,8761,Sara Green,Nicaragua,796,Sports,Basketball,7,346.32,2424.24,East
+638,8/28/2023,9404,Mrs. Tricia Newton MD,Vanuatu,851,Beauty,Lotion,6,952.14,5712.84,North
+640,11/9/2023,5758,Michael Ball,Sao Tome and Principe,865,Sports,Bicycle,8,528.79,4230.32,West
+641,5/12/2025,1540,Angela Mcdaniel,Senegal,931,Electronics,Laptop,1,233.08,233.08,South
+642,2/12/2024,1604,Tammy Miles,Chile,942,Clothing,T-Shirt,3,767.39,2302.17,North
+643,11/4/2023,9035,Nathaniel Long,Macedonia,529,Clothing,Jacket,9,244.97,2204.73,East
+644,8/6/2023,9090,Michael Myers,Vanuatu,902,Clothing,T-Shirt,4,979,3916,East
+645,8/25/2023,2482,Antonio Davis,Botswana,962,Furniture,Couch,1,234.83,234.83,West
+647,10/3/2023,1351,Jeffrey Anderson,French Southern Territories,765,Sports,Football,10,922.44,9224.4,South
+648,12/14/2024,2924,Amanda Hayden,Jersey,813,Clothing,Shoes,2,984.78,1969.56,West
+650,6/20/2025,6891,Mark West,Japan,947,Beauty,Makeup,5,379,1895,East
+651,4/23/2024,3565,James Rose,Zimbabwe,766,Furniture,Bed,4,219.38,877.52,West
+652,2/19/2025,7242,Benjamin Peterson,Niger,863,Beauty,Makeup,8,501.82,4014.56,North
+653,2/28/2024,5092,Kevin Morse PhD,Palau,590,Electronics,Monitor,2,353.34,706.68,West
+654,9/5/2023,3411,Ashley Lang,Belgium,920,Beauty,Perfume,5,130.02,650.1,South
+655,7/18/2024,8222,Christopher Benton,Benin,972,Clothing,Socks,2,515.81,1031.62,North
+656,10/14/2024,7538,Michael Brooks,Belize,581,Sports,Treadmill,6,830.34,4982.04,East
+657,1/31/2025,7417,Nicole Moses,Sweden,896,Sports,Tennis Racket,3,375.72,1127.16,East
+658,6/4/2025,4484,Dr. Andrea Lopez,Kuwait,784,Furniture,Chair,1,530.36,530.36,South
+661,3/22/2025,4082,Rachael Lawson,Bosnia and Herzegovina,749,Furniture,Chair,9,518.63,4667.67,North
+662,11/21/2023,9035,Nathaniel Long,Macedonia,961,Sports,Treadmill,10,832.31,8323.1,East
+663,7/20/2024,4307,Matthew Espinoza,Zimbabwe,916,Furniture,Chair,1,575.52,575.52,West
+665,10/19/2023,8588,Ellen Horton,Mauritania,755,Beauty,Makeup,3,618.82,1856.46,East
+666,12/10/2023,1344,James Sanchez,Bosnia and Herzegovina,692,Furniture,Table,5,511.6,2558,North
+667,5/18/2024,3553,Lindsay Taylor,Jamaica,632,Electronics,Smartphone,3,679.07,2037.21,North
+668,1/29/2024,3032,Matthew Manning,Malawi,530,Sports,Basketball,7,205.23,1436.61,South
+669,6/11/2024,4800,Michael Pugh PhD,Belgium,623,Beauty,Makeup,3,584.46,1753.38,North
+670,5/5/2025,3659,Tanya Franklin,Peru,851,Beauty,Lotion,5,974.18,4870.9,West
+671,7/29/2024,3477,Linda Lopez,Svalbard & Jan Mayen Islands,976,Beauty,Shampoo,5,573.64,2868.2,South
+672,4/18/2024,5400,Jessica Weber,Guinea,510,Furniture,Desk,3,184.17,552.51,East
+673,5/14/2024,6720,Curtis Snyder,Senegal,991,Furniture,Bed,10,55.53,555.3,South
+674,11/21/2023,7242,Benjamin Peterson,Niger,637,Clothing,Jacket,10,330.56,3305.6,East
+675,12/21/2024,3553,Lindsay Taylor,Jamaica,895,Sports,Tennis Racket,10,528.48,5284.8,West
+676,5/23/2024,6720,Curtis Snyder,Senegal,634,Sports,Basketball,9,502.03,4518.27,West
+677,3/30/2024,3229,Victor Vazquez,Australia,689,Sports,Football,6,255.58,1533.48,East
+678,6/10/2024,5427,Jack Hoover,Malaysia,622,Clothing,Jacket,1,549.29,549.29,West
+679,4/21/2025,7295,Michael Johnson,Eritrea,929,Clothing,T-Shirt,1,777.19,777.19,South
+680,3/28/2025,7417,Nicole Moses,Sweden,673,Beauty,Lotion,2,145.88,291.76,East
+681,9/25/2024,2305,Robert Hill,Italy,962,Beauty,Nail Polish,2,310.64,621.28,East
+682,11/18/2023,1604,Tammy Miles,Chile,703,Beauty,Nail Polish,6,119.72,718.32,West
+683,5/18/2024,1440,Miguel Johnson,Estonia,699,Furniture,Table,7,933.95,6537.65,East
+684,4/1/2025,7417,Nicole Moses,Sweden,837,Clothing,Shoes,9,699.22,6292.98,West
+685,10/21/2023,2978,Savannah Shah,Saint Kitts and Nevis,996,Electronics,Headphones,9,478.01,4302.09,West
+686,3/30/2024,3193,Kevin Jenkins,Taiwan,643,Furniture,Table,1,348.59,348.59,South
+687,1/30/2025,3226,Ryan Finley,Luxembourg,574,Sports,Treadmill,2,682.81,1365.62,South
+688,10/31/2023,1712,Karen Williams MD,Netherlands Antilles,524,Furniture,Table,7,359.1,2513.7,South
+689,5/21/2024,2501,Beverly Estes,Mauritania,789,Clothing,Jeans,6,692.95,4157.7,North
+690,2/14/2025,2924,Amanda Hayden,Jersey,761,Electronics,Headphones,3,136.43,409.29,West
+691,1/25/2024,2278,Andrea Sandoval,Hong Kong,790,Clothing,Socks,5,497.52,2487.6,West
+692,10/2/2024,7242,Benjamin Peterson,Niger,549,Beauty,Nail Polish,3,708.28,2124.84,West
+693,3/17/2024,4550,Christina Rodriguez,Albania,731,Beauty,Perfume,9,491.52,4423.68,East
+694,10/23/2024,6274,Daniel Madden,Armenia,948,Sports,Football,8,667.97,5343.76,West
+695,12/15/2024,4926,Joseph Cherry DDS,Guam,534,Electronics,Smartphone,8,527.02,4216.16,West
+696,8/29/2024,2974,Raymond Sweeney,El Salvador,773,Clothing,Shoes,8,648.75,5190,South
+697,8/15/2023,8379,David Kelley,Guinea,591,Furniture,Chair,1,97.96,97.96,West
+698,3/7/2024,4082,Rachael Lawson,Bosnia and Herzegovina,918,Electronics,Smartphone,6,812.8,4876.8,West
+699,7/27/2024,9951,Mikayla Garrett,Venezuela,818,Sports,Treadmill,3,977.73,2933.19,South
+700,12/17/2023,1158,Jessica Morrison,Guernsey,533,Furniture,Couch,2,601.32,1202.64,West
+701,4/1/2025,1419,Brittany Robinson,Barbados,849,Beauty,Nail Polish,6,516.45,3098.7,West
+702,8/3/2024,3659,Tanya Franklin,Peru,768,Clothing,Jacket,7,900.36,6302.52,East
+703,10/24/2024,2585,Jeffrey Chase,Montserrat,693,Beauty,Nail Polish,7,427.06,2989.42,South
+704,5/25/2025,1460,Jenny Diaz,Mayotte,504,Beauty,Makeup,5,266.36,1331.8,South
+707,8/31/2024,1355,Lindsey Peterson,Saint Kitts and Nevis,764,Electronics,Laptop,4,868.37,3473.48,South
+708,8/1/2024,9232,Vincent Johnson,Pakistan,649,Electronics,Headphones,3,353.44,1060.32,South
+709,1/22/2025,5017,James Henderson,Monaco,993,Clothing,Shoes,6,568.52,3411.12,South
+710,6/13/2025,5684,Dennis Mack,Tonga,814,Beauty,Nail Polish,9,632.71,5694.39,West
+711,11/21/2024,9107,Jason Miller,Palau,863,Beauty,Nail Polish,10,105.04,1050.4,West
+712,7/19/2024,8190,Michael Ellis,Saint Lucia,688,Electronics,Laptop,2,896.52,1793.04,South
+713,8/13/2023,6883,Tamara Perez,Nigeria,747,Furniture,Chair,7,181.58,1271.06,North
+714,8/24/2023,5851,John Flores,Liberia,582,Furniture,Table,1,156.07,156.07,East
+715,6/15/2024,3553,Lindsay Taylor,Jamaica,626,Furniture,Couch,6,641.17,3847.02,South
+716,9/26/2024,4603,Martin Brown,Finland,546,Sports,Tennis Racket,10,668.48,6684.8,West
+717,8/22/2024,1344,James Sanchez,Bosnia and Herzegovina,871,Electronics,Camera,6,580.24,3481.44,South
+718,11/1/2024,8386,Ronnie Wells,Faroe Islands,844,Clothing,Socks,3,495.13,1485.39,East
+719,4/3/2024,1712,Karen Williams MD,Netherlands Antilles,503,Clothing,Jacket,10,204.89,2048.9,West
+720,8/31/2023,7870,Christopher Curtis,Oman,985,Clothing,Shoes,2,832.4,1664.8,South
+721,12/4/2024,8352,Adam Burns,Nigeria,869,Furniture,Couch,10,892.28,8922.8,East
+722,2/14/2025,9341,Lisa Murphy,Armenia,830,Clothing,Jeans,7,149.67,1047.69,South
+723,7/31/2024,9001,Diane Lawrence,Turks and Caicos Islands,981,Electronics,Laptop,1,632.19,632.19,South
+724,10/17/2024,3640,Pamela Allen,Iceland,606,Electronics,Camera,4,480.86,1923.44,North
+725,3/24/2025,8443,Joseph Wise,Jersey,948,Electronics,Headphones,9,667.35,6006.15,South
+726,1/31/2024,9951,Mikayla Garrett,Venezuela,987,Sports,Basketball,1,165.58,165.58,West
+727,11/8/2023,9895,Matthew Stark,Libyan Arab Jamahiriya,813,Beauty,Nail Polish,6,372.55,2235.3,West
+728,3/13/2025,4926,Joseph Cherry DDS,Guam,726,Electronics,Monitor,7,919.08,6433.56,East
+729,2/23/2024,9594,Miss Alexandra Scott,Netherlands,800,Furniture,Desk,3,528.17,1584.51,South
+730,6/13/2025,2585,Jeffrey Chase,Montserrat,914,Beauty,Nail Polish,4,887.64,3550.56,East
+731,11/30/2024,9938,William Rivera,Mongolia,662,Beauty,Perfume,4,448.16,1792.64,South
+732,3/13/2024,7143,Timothy French,Ireland,552,Sports,Football,3,531.05,1593.15,South
+733,2/18/2025,1405,Tracey Robbins,Samoa,867,Beauty,Nail Polish,2,675.35,1350.7,East
+734,2/8/2025,9816,Joe Williams,Angola,634,Electronics,Camera,9,840.65,7565.85,North
+735,9/27/2023,6031,Stephanie Lewis,Korea,934,Sports,Bicycle,7,57.84,404.88,North
+736,7/27/2024,6274,Daniel Madden,Armenia,939,Sports,Treadmill,7,332.11,2324.77,East
+737,3/29/2024,1908,Stanley Grant,Angola,534,Clothing,Jeans,4,381.08,1524.32,North
+738,7/20/2024,8386,Ronnie Wells,Faroe Islands,686,Beauty,Makeup,9,147.45,1327.05,West
+739,10/7/2024,8213,Jacob Henry,Philippines,746,Electronics,Monitor,1,573.51,573.51,West
+740,12/11/2024,4896,Paul Gonzalez,Australia,882,Beauty,Lotion,2,187.6,375.2,West
+741,11/25/2023,8942,Dean Russell,Belarus,741,Beauty,Makeup,6,570.51,3423.06,West
+742,4/14/2025,5698,Thomas Robinson,Belize,664,Clothing,Shoes,8,477.71,3821.68,West
+743,9/30/2024,6825,Katie Cooke,Greece,891,Sports,Basketball,4,534.83,2139.32,East
+744,10/25/2023,9227,Troy Wagner,Palau,631,Electronics,Smartphone,5,905.75,4528.75,North
+745,12/13/2023,3835,Dennis Harris,Saint Pierre and Miquelon,700,Sports,Football,4,946.81,3787.24,East
+746,4/23/2025,4475,Andrea Turner,Saudi Arabia,733,Beauty,Nail Polish,2,497.83,995.66,South
+747,12/1/2023,3927,Tracy Castillo,Sudan,513,Electronics,Camera,8,721.28,5770.24,East
+748,8/23/2023,7856,Theresa Garcia,Saint Barthelemy,580,Electronics,Camera,5,421.08,2105.4,West
+749,6/23/2024,5048,Frank Chandler,Mayotte,704,Beauty,Perfume,8,59.31,474.48,East
+750,10/22/2024,5458,Michael Waller,India,943,Electronics,Monitor,9,147.61,1328.49,East
+751,8/30/2023,7494,Christopher Leon,New Zealand,701,Furniture,Table,1,650.72,650.72,North
+752,4/16/2025,4305,Jennifer Gardner,Slovakia (Slovak Republic),634,Clothing,Shoes,1,233.93,233.93,South
+753,2/27/2025,8277,Kim Weaver,Mongolia,989,Clothing,Socks,1,190.42,190.42,South
+754,5/10/2025,4809,Justin Montgomery,Djibouti,514,Furniture,Table,4,241.65,966.6,West
+755,7/25/2023,5061,Dennis Carey,Norfolk Island,817,Furniture,Chair,9,371.01,3339.09,East
+756,1/30/2024,9232,Vincent Johnson,Pakistan,774,Clothing,Jeans,10,724.27,7242.7,South
+757,2/19/2025,5851,John Flores,Liberia,594,Furniture,Chair,8,794.16,6353.28,East
+758,1/22/2025,4655,Karen Munoz,Central African Republic,903,Electronics,Camera,10,402.24,4022.4,West
+759,4/8/2024,8341,Nathaniel Johns,Macedonia,811,Electronics,Monitor,9,170.42,1533.78,North
+760,11/25/2023,7870,Christopher Curtis,Oman,866,Clothing,Jacket,7,248.77,1741.39,South
+761,7/29/2024,8942,Dean Russell,Belarus,676,Sports,Tennis Racket,9,176.33,1586.97,East
+762,6/20/2024,3335,Justin Ellis,Estonia,935,Beauty,Lotion,8,671.67,5373.36,West
+763,8/18/2024,9951,Mikayla Garrett,Venezuela,673,Sports,Tennis Racket,2,256.7,513.4,West
+764,10/24/2023,6590,Dawn Garza,Palau,540,Beauty,Lotion,10,149.07,1490.7,South
+765,7/31/2024,8213,Jacob Henry,Philippines,996,Clothing,Jacket,3,44.13,132.39,West
+766,11/3/2024,9404,Mrs. Tricia Newton MD,Vanuatu,560,Sports,Football,5,729.72,3648.6,West
+767,6/13/2025,8386,Ronnie Wells,Faroe Islands,653,Clothing,Jacket,8,798.81,6390.48,East
+768,6/4/2024,5819,Thomas Morgan,Sudan,886,Sports,Treadmill,5,409.57,2047.85,West
+769,5/19/2024,7494,Christopher Leon,New Zealand,623,Beauty,Lotion,1,476.16,476.16,North
+770,9/5/2023,8859,Tammy Zhang,Guam,822,Clothing,Shoes,6,445.51,2673.06,East
+771,5/13/2025,6654,Brian Mccarthy,Anguilla,976,Furniture,Chair,7,424.14,2968.98,South
+772,11/6/2024,4902,Kenneth Meyer,Ireland,956,Furniture,Chair,10,217.16,2171.6,East
+773,11/6/2024,5357,Christopher Hill,Japan,914,Furniture,Bed,2,231.71,463.42,North
+775,6/30/2024,7107,Randall Robinson,Senegal,901,Electronics,Camera,8,467.07,3736.56,North
+776,8/7/2023,8384,Todd Baker,Rwanda,905,Beauty,Perfume,5,993.91,4969.55,East
+777,4/25/2024,4902,Kenneth Meyer,Ireland,896,Beauty,Nail Polish,2,562.18,1124.36,West
+779,3/17/2024,1344,James Sanchez,Bosnia and Herzegovina,514,Clothing,T-Shirt,10,90.78,907.8,North
+780,1/9/2025,7870,Christopher Curtis,Oman,948,Beauty,Lotion,10,122.53,1225.3,East
+781,4/1/2025,9387,Benjamin Hardy,Mexico,899,Clothing,Shoes,8,329.99,2639.92,West
+782,6/1/2024,3193,Kevin Jenkins,Taiwan,696,Beauty,Perfume,6,817.34,4904.04,North
+784,7/30/2023,5622,Aaron Cox,Mauritania,601,Sports,Basketball,10,466.85,4668.5,South
+785,12/3/2024,8757,Michael Mendoza,Estonia,841,Sports,Football,8,343.94,2751.52,North
+786,11/26/2024,9555,Angela Pierce,Ethiopia,703,Clothing,T-Shirt,7,506.93,3548.51,West
+788,2/19/2025,9341,Lisa Murphy,Armenia,516,Clothing,Socks,2,132.76,265.52,North
+789,10/29/2024,5678,Lisa Williams,Niue,823,Beauty,Shampoo,10,982.21,9822.1,East
+790,8/12/2024,8341,Nathaniel Johns,Macedonia,562,Electronics,Headphones,1,290.95,290.95,West
+791,4/22/2024,8588,Ellen Horton,Mauritania,611,Beauty,Nail Polish,1,54.83,54.83,West
+792,2/22/2025,9326,Cynthia Monroe,Nauru,556,Sports,Tennis Racket,6,905.66,5433.96,South
+793,4/30/2024,2918,Christopher Scott,Gibraltar,609,Beauty,Perfume,3,264.39,793.17,East
+794,5/14/2025,8379,David Kelley,Guinea,569,Furniture,Chair,5,412.9,2064.5,North
+795,10/29/2023,5909,Sharon Ramos,Angola,672,Sports,Football,2,796.2,1592.4,East
+796,9/9/2024,5758,Michael Ball,Sao Tome and Principe,869,Clothing,Jeans,5,997.67,4988.35,East
+797,1/7/2024,8384,Todd Baker,Rwanda,936,Clothing,Jeans,8,925.32,7402.56,North
+798,3/4/2024,4148,Gary Torres,Malawi,819,Clothing,Shoes,8,970.59,7764.72,East
+799,7/18/2024,2610,Krista Sampson,Jamaica,819,Electronics,Laptop,8,493.02,3944.16,South
+800,12/10/2023,5043,Cheryl Young,Belgium,596,Electronics,Monitor,1,855.7,855.7,South
+801,2/7/2024,5061,Dennis Carey,Norfolk Island,998,Sports,Tennis Racket,1,155.84,155.84,East
+802,6/10/2024,4705,Felicia Garcia,Czech Republic,951,Clothing,Jacket,5,170.38,851.9,East
+803,3/2/2025,2486,Scott Greene,United States of America,664,Furniture,Chair,9,461.84,4156.56,West
+804,7/17/2024,5092,Kevin Morse PhD,Palau,596,Clothing,Socks,1,238.75,238.75,West
+805,4/15/2025,2020,Melanie Gonzalez,Montserrat,746,Clothing,Shoes,6,89.67,538.02,East
+806,8/17/2024,4655,Karen Munoz,Central African Republic,967,Sports,Treadmill,8,861.58,6892.64,North
+807,7/28/2024,7351,Joshua Rojas,Lebanon,535,Sports,Football,2,680.94,1361.88,North
+808,6/22/2025,7107,Randall Robinson,Senegal,804,Electronics,Laptop,2,399.74,799.48,North
+809,12/5/2024,4989,Ann Lara,Bosnia and Herzegovina,749,Clothing,Socks,3,799.93,2399.79,North
+810,3/30/2024,5061,Dennis Carey,Norfolk Island,885,Sports,Treadmill,7,404.81,2833.67,West
+811,3/30/2024,5458,Michael Waller,India,691,Beauty,Makeup,3,54.53,163.59,North
+812,10/18/2023,1420,Hayley Fox,Faroe Islands,824,Sports,Treadmill,2,94.43,188.86,East
+813,3/10/2025,9035,Nathaniel Long,Macedonia,712,Clothing,Socks,4,996.47,3985.88,South
+814,11/17/2024,5678,Lisa Williams,Niue,704,Clothing,Jeans,5,451.17,2255.85,East
+815,8/28/2023,1158,Jessica Morrison,Guernsey,634,Electronics,Laptop,7,712.77,4989.39,West
+816,8/14/2023,9232,Vincent Johnson,Pakistan,903,Clothing,Jacket,4,600.41,2401.64,West
+817,5/22/2025,8443,Joseph Wise,Jersey,712,Clothing,Jacket,2,888.64,1777.28,North
+818,1/28/2025,1604,Tammy Miles,Chile,786,Electronics,Monitor,7,438.52,3069.64,South
+819,7/14/2024,5061,Dennis Carey,Norfolk Island,661,Sports,Football,8,679.51,5436.08,East
+820,3/18/2025,6590,Dawn Garza,Palau,784,Sports,Football,8,968.95,7751.6,West
+821,6/3/2025,2486,Scott Greene,United States of America,883,Sports,Tennis Racket,8,931.81,7454.48,West
+822,2/23/2025,8190,Michael Ellis,Saint Lucia,924,Beauty,Makeup,10,22.61,226.1,North
+823,3/12/2025,7242,Benjamin Peterson,Niger,557,Sports,Tennis Racket,1,714.48,714.48,North
+824,5/8/2024,7625,Toni Hernandez,Trinidad and Tobago,984,Clothing,T-Shirt,6,140.88,845.28,South
+825,5/17/2025,4550,Christina Rodriguez,Albania,645,Clothing,Jeans,4,352.71,1410.84,East
+826,1/22/2024,9227,Troy Wagner,Palau,707,Electronics,Smartphone,8,366.3,2930.4,West
+827,10/20/2023,9555,Angela Pierce,Ethiopia,995,Clothing,T-Shirt,10,511.7,5117,North
+828,12/30/2023,4655,Karen Munoz,Central African Republic,985,Sports,Tennis Racket,3,928.3,2784.9,West
+829,3/28/2024,4809,Justin Montgomery,Djibouti,643,Sports,Treadmill,3,664.04,1992.12,East
+830,3/21/2025,2231,Laurie Wise,Cook Islands,616,Furniture,Chair,7,608.84,4261.88,West
+831,12/12/2024,8046,Claire Hobbs,Italy,606,Sports,Treadmill,5,22.77,113.85,South
+832,3/22/2025,2486,Scott Greene,United States of America,930,Clothing,Shoes,9,553.93,4985.37,West
+833,11/7/2023,8384,Todd Baker,Rwanda,973,Beauty,Perfume,3,171.76,515.28,East
+834,3/30/2025,5698,Thomas Robinson,Belize,836,Beauty,Lotion,8,687.43,5499.44,North
+835,11/22/2023,4550,Christina Rodriguez,Albania,662,Beauty,Shampoo,2,990.74,1981.48,West
+836,8/6/2023,9404,Mrs. Tricia Newton MD,Vanuatu,621,Furniture,Bed,9,47.65,428.85,North
+837,3/1/2024,8761,Sara Green,Nicaragua,942,Beauty,Shampoo,6,657.07,3942.42,North
+838,3/30/2024,1008,Nicholas Barnes,United Arab Emirates,958,Sports,Treadmill,10,740.7,7407,East
+839,10/4/2024,6654,Brian Mccarthy,Anguilla,638,Electronics,Smartphone,8,983.94,7871.52,West
+840,7/22/2024,9341,Lisa Murphy,Armenia,847,Sports,Bicycle,4,377.98,1511.92,South
+841,3/1/2025,5758,Michael Ball,Sao Tome and Principe,988,Sports,Treadmill,1,997.01,997.01,South
+842,2/1/2025,4211,Rachael Woods,Sri Lanka,582,Electronics,Laptop,6,420.5,2523,North
+843,12/4/2023,2599,Benjamin Hart,Saudi Arabia,686,Sports,Treadmill,4,889.02,3556.08,North
+844,5/12/2025,6466,Jerry Schneider,United Arab Emirates,764,Sports,Tennis Racket,4,445.47,1781.88,West
+845,3/6/2025,7538,Michael Brooks,Belize,537,Clothing,Jeans,1,728.31,728.31,West
+846,6/12/2024,4902,Kenneth Meyer,Ireland,951,Clothing,Shoes,9,606.9,5462.1,South
+847,11/20/2023,4475,Andrea Turner,Saudi Arabia,723,Sports,Tennis Racket,7,310.91,2176.37,West
+848,7/26/2024,2599,Benjamin Hart,Saudi Arabia,917,Beauty,Makeup,5,457.18,2285.9,West
+849,3/26/2024,2734,Erica Brown,Libyan Arab Jamahiriya,652,Sports,Tennis Racket,5,898.66,4493.3,South
+850,2/8/2025,5333,Deborah Brooks,Hong Kong,614,Sports,Bicycle,8,446.45,3571.6,South
+851,4/29/2024,8859,Tammy Zhang,Guam,696,Sports,Football,9,978.5,8806.5,East
+852,8/31/2024,9233,Justin Burgess,Israel,826,Beauty,Shampoo,3,359.02,1077.06,North
+853,2/10/2024,5174,Larry Mack,Croatia,709,Electronics,Monitor,2,226.99,453.98,North
+854,11/10/2024,7417,Nicole Moses,Sweden,720,Electronics,Laptop,8,696.4,5571.2,East
+855,4/29/2024,4809,Justin Montgomery,Djibouti,880,Furniture,Chair,5,89.14,445.7,North
+856,1/6/2024,3835,Dennis Harris,Saint Pierre and Miquelon,591,Beauty,Nail Polish,1,714.4,714.4,West
+857,4/12/2025,3659,Tanya Franklin,Peru,873,Beauty,Makeup,7,339.71,2377.97,North
+858,1/2/2024,8433,Jacob Norris,South Georgia and the South Sandwich Islands,715,Electronics,Monitor,1,666.97,666.97,East
+859,11/22/2023,8604,Timothy Henson,Mayotte,624,Electronics,Monitor,8,989.8,7918.4,West
+860,11/13/2024,8384,Todd Baker,Rwanda,760,Beauty,Lotion,9,25.41,228.69,East
+861,2/28/2025,2462,Tracey Medina,Netherlands,997,Clothing,Socks,6,305.25,1831.5,East
+862,12/6/2024,2231,Laurie Wise,Cook Islands,767,Sports,Treadmill,7,205.94,1441.58,North
+863,8/21/2023,7538,Michael Brooks,Belize,979,Beauty,Nail Polish,4,807.43,3229.72,South
+864,11/30/2024,4989,Ann Lara,Bosnia and Herzegovina,610,Electronics,Laptop,8,399.71,3197.68,North
+865,2/1/2024,1158,Jessica Morrison,Guernsey,606,Beauty,Perfume,7,535.29,3747.03,North
+866,1/6/2025,8757,Michael Mendoza,Estonia,995,Furniture,Bed,5,51.06,255.3,East
+867,11/12/2023,4809,Justin Montgomery,Djibouti,953,Sports,Football,1,549.98,549.98,East
+868,1/27/2025,5333,Deborah Brooks,Hong Kong,853,Beauty,Makeup,10,763.17,7631.7,South
+869,10/17/2023,5684,Dennis Mack,Tonga,902,Clothing,Shoes,9,662.42,5961.78,East
+870,2/15/2025,3553,Lindsay Taylor,Jamaica,952,Electronics,Monitor,6,531.01,3186.06,West
+872,9/14/2024,4655,Karen Munoz,Central African Republic,532,Beauty,Makeup,4,586.3,2345.2,West
+873,6/10/2024,7361,Willie Castillo Jr.,Comoros,645,Furniture,Chair,3,561.88,1685.64,East
+874,3/4/2025,4896,Paul Gonzalez,Australia,627,Furniture,Couch,9,530.94,4778.46,East
+875,11/16/2024,5017,James Henderson,Monaco,719,Beauty,Lotion,10,631.76,6317.6,North
+876,5/27/2024,9107,Jason Miller,Palau,754,Furniture,Desk,6,324.56,1947.36,North
+877,11/6/2023,7870,Christopher Curtis,Oman,508,Electronics,Smartphone,10,965.62,9656.2,South
+878,11/22/2024,1405,Tracey Robbins,Samoa,939,Clothing,Jacket,9,214.88,1933.92,East
+879,9/19/2023,8379,David Kelley,Guinea,629,Sports,Treadmill,1,577.73,577.73,West
+881,5/2/2025,5400,Jessica Weber,Guinea,690,Electronics,Camera,1,808.25,808.25,West
+882,10/20/2024,9938,William Rivera,Mongolia,741,Furniture,Chair,8,277.42,2219.36,East
+883,1/7/2025,8213,Jacob Henry,Philippines,883,Sports,Basketball,1,128.2,128.2,West
+884,12/20/2023,9951,Mikayla Garrett,Venezuela,621,Beauty,Lotion,1,855.7,855.7,North
+885,8/17/2023,9594,Miss Alexandra Scott,Netherlands,514,Furniture,Table,6,693.18,4159.08,South
+886,6/2/2024,5592,Tammy Fleming,Germany,582,Clothing,Shoes,9,555.9,5003.1,North
+887,3/7/2024,1349,Holly Jones,Solomon Islands,685,Electronics,Smartphone,2,954.46,1908.92,East
+888,11/2/2024,1792,Patrick Brown,French Southern Territories,723,Sports,Treadmill,1,981.68,981.68,South
+889,10/26/2023,5017,James Henderson,Monaco,534,Beauty,Nail Polish,5,211.76,1058.8,West
+890,6/10/2024,6093,Ashley Russo,Liberia,802,Furniture,Desk,3,547.14,1641.42,West
+891,1/27/2025,9001,Diane Lawrence,Turks and Caicos Islands,586,Clothing,Jeans,2,609.23,1218.46,East
+892,11/18/2023,3565,James Rose,Zimbabwe,656,Electronics,Smartphone,6,225.79,1354.74,West
+893,11/12/2023,6357,Kylie Mclaughlin,Wallis and Futuna,981,Electronics,Monitor,6,219.73,1318.38,West
+894,9/26/2023,7538,Michael Brooks,Belize,961,Furniture,Table,4,179.29,717.16,South
+895,12/1/2023,5758,Michael Ball,Sao Tome and Principe,615,Beauty,Shampoo,4,167.09,668.36,East
+896,10/6/2023,5957,Michael Mathews,Western Sahara,674,Beauty,Makeup,3,493.66,1480.98,West
+897,11/5/2024,2978,Savannah Shah,Saint Kitts and Nevis,808,Furniture,Couch,1,494.09,494.09,West
+898,6/23/2024,8341,Nathaniel Johns,Macedonia,938,Sports,Football,7,769.51,5386.57,South
+899,12/13/2024,7494,Christopher Leon,New Zealand,863,Clothing,Shoes,10,857.31,8573.1,South
+900,8/31/2024,4655,Karen Munoz,Central African Republic,700,Clothing,Jacket,1,484.24,484.24,South
+901,5/12/2025,4603,Martin Brown,Finland,778,Clothing,Jacket,8,313.24,2505.92,East
+902,4/12/2025,4655,Karen Munoz,Central African Republic,519,Furniture,Desk,5,338.16,1690.8,East
+903,5/15/2025,5357,Christopher Hill,Japan,859,Clothing,Shoes,2,756.07,1512.14,North
+904,6/14/2025,6357,Kylie Mclaughlin,Wallis and Futuna,644,Furniture,Couch,5,268.48,1342.4,East
+905,4/6/2024,8443,Joseph Wise,Jersey,626,Sports,Tennis Racket,1,764.1,764.1,North
+906,5/22/2024,2918,Christopher Scott,Gibraltar,872,Electronics,Camera,5,96.14,480.7,West
+907,7/19/2024,8437,Francisco Beasley,Brazil,923,Furniture,Desk,8,868.23,6945.84,East
+908,8/4/2023,3767,Monica Ortega,American Samoa,519,Furniture,Chair,1,655.27,655.27,North
+909,10/11/2024,5323,Elizabeth Woodard,Indonesia,743,Electronics,Smartphone,9,880.49,7924.41,North
+910,3/28/2024,6883,Tamara Perez,Nigeria,742,Clothing,T-Shirt,2,265.3,530.6,West
+911,11/13/2023,7351,Joshua Rojas,Lebanon,503,Beauty,Nail Polish,5,412.5,2062.5,South
+912,11/13/2023,9938,William Rivera,Mongolia,660,Furniture,Bed,7,532.48,3727.36,North
+913,12/2/2023,8437,Francisco Beasley,Brazil,881,Clothing,Socks,1,859.85,859.85,West
+914,8/8/2023,1440,Miguel Johnson,Estonia,674,Beauty,Makeup,5,765.92,3829.6,South
+915,6/9/2025,2681,Rhonda Dunn,Aruba,873,Furniture,Desk,7,384.31,2690.17,South
+916,10/25/2023,8480,Zachary Murphy,Belarus,598,Sports,Tennis Racket,10,34.45,344.5,East
+917,6/28/2024,7259,Lisa Torres,Kuwait,666,Electronics,Camera,1,696.8,696.8,South
+918,4/13/2024,2377,Heather Smith,Burkina Faso,901,Clothing,Socks,2,70.13,140.26,West
+919,8/22/2023,5851,John Flores,Liberia,991,Furniture,Bed,6,592.39,3554.34,North
+921,10/25/2023,4305,Jennifer Gardner,Slovakia (Slovak Republic),606,Beauty,Shampoo,1,430.83,430.83,West
+922,11/8/2024,4550,Christina Rodriguez,Albania,691,Beauty,Nail Polish,6,849.73,5098.38,North
+923,8/31/2024,9404,Mrs. Tricia Newton MD,Vanuatu,757,Furniture,Bed,3,494.54,1483.62,South
+924,4/6/2024,5043,Cheryl Young,Belgium,801,Clothing,Jacket,3,225.53,676.59,North
+925,5/29/2024,2585,Jeffrey Chase,Montserrat,595,Beauty,Makeup,6,530.39,3182.34,East
+926,5/10/2025,3607,Jonathan Wood,Djibouti,939,Electronics,Smartphone,1,498.97,498.97,East
+927,10/21/2023,8437,Francisco Beasley,Brazil,935,Furniture,Desk,9,296.31,2666.79,West
+928,5/19/2024,8379,David Kelley,Guinea,932,Clothing,Socks,8,499.67,3997.36,East
+929,4/13/2025,1908,Stanley Grant,Angola,713,Electronics,Laptop,3,509.33,1527.99,North
+931,5/2/2025,9703,Jeremy Baker,Cuba,843,Clothing,T-Shirt,8,955.17,7641.36,South
+932,7/12/2024,3976,Leslie Torres,Niger,676,Clothing,Shoes,2,460.17,920.34,South
+933,12/5/2024,8757,Michael Mendoza,Estonia,827,Furniture,Bed,3,631.13,1893.39,South
+934,2/14/2025,8757,Michael Mendoza,Estonia,710,Clothing,T-Shirt,10,828.37,8283.7,West
+935,10/31/2023,9451,Ashley Williams,Uzbekistan,910,Beauty,Lotion,5,166.17,830.85,South
+936,6/6/2024,4717,Emily Phillips,Armenia,751,Clothing,Jacket,8,330.08,2640.64,West
+937,7/28/2023,2978,Savannah Shah,Saint Kitts and Nevis,891,Clothing,Shoes,7,106.77,747.39,West
+938,2/7/2024,4484,Dr. Andrea Lopez,Kuwait,919,Sports,Basketball,4,870.56,3482.24,South
+939,12/6/2023,4484,Dr. Andrea Lopez,Kuwait,549,Furniture,Bed,8,232.88,1863.04,North
+940,3/13/2025,8491,Jane Perkins,Saint Martin,613,Sports,Bicycle,10,458.29,4582.9,South
+941,2/10/2024,5909,Sharon Ramos,Angola,825,Beauty,Makeup,6,486.98,2921.88,West
+942,8/18/2024,8190,Michael Ellis,Saint Lucia,522,Clothing,Jeans,5,772.5,3862.5,East
+943,8/13/2024,4926,Joseph Cherry DDS,Guam,596,Sports,Treadmill,10,723.2,7232,South
+944,8/15/2024,2610,Krista Sampson,Jamaica,623,Clothing,Jeans,3,710.73,2132.19,East
+945,2/22/2025,8761,Sara Green,Nicaragua,504,Clothing,Socks,10,217.69,2176.9,West
+946,8/9/2024,2231,Laurie Wise,Cook Islands,975,Beauty,Lotion,4,598.15,2392.6,North
+947,9/1/2023,4148,Gary Torres,Malawi,584,Sports,Football,10,783.11,7831.1,South
+948,12/12/2023,2672,Annette Phillips,Guadeloupe,554,Clothing,Jeans,1,521,521,West
+949,3/17/2024,1349,Holly Jones,Solomon Islands,817,Electronics,Headphones,5,199.55,997.75,East
+950,1/3/2024,8882,Samuel Brown,Myanmar,784,Furniture,Table,9,268.25,2414.25,West
+951,5/20/2024,4988,Lori Medina,Gibraltar,569,Clothing,Jacket,1,934.29,934.29,North
+952,4/3/2025,1736,David Monroe,Lebanon,867,Furniture,Desk,7,111.34,779.38,East
+953,10/2/2024,6590,Dawn Garza,Palau,819,Furniture,Couch,10,506.27,5062.7,East
+954,9/12/2024,2585,Jeffrey Chase,Montserrat,871,Furniture,Couch,9,80.08,720.72,North
+955,8/3/2023,3976,Leslie Torres,Niger,610,Electronics,Laptop,8,132.38,1059.04,East
+956,1/24/2024,3835,Dennis Harris,Saint Pierre and Miquelon,812,Furniture,Desk,8,528.88,4231.04,East
+957,9/17/2023,1158,Jessica Morrison,Guernsey,761,Sports,Bicycle,4,132.91,531.64,East
+958,5/29/2024,1460,Jenny Diaz,Mayotte,507,Sports,Tennis Racket,2,257.84,515.68,North
+959,3/25/2025,7107,Randall Robinson,Senegal,852,Furniture,Table,9,164.07,1476.63,North
+960,12/22/2023,6466,Jerry Schneider,United Arab Emirates,914,Electronics,Smartphone,5,468.26,2341.3,East
+961,9/11/2024,3513,Emily Martin,Grenada,716,Beauty,Perfume,10,83.64,836.4,North
+962,11/7/2023,2734,Erica Brown,Libyan Arab Jamahiriya,702,Furniture,Table,2,305.96,611.92,East
+963,8/24/2024,2672,Annette Phillips,Guadeloupe,546,Sports,Bicycle,7,622.43,4357.01,North
+964,12/26/2024,9938,William Rivera,Mongolia,739,Furniture,Couch,9,893.89,8045.01,North
+965,2/3/2024,9341,Lisa Murphy,Armenia,759,Clothing,Socks,1,802.31,802.31,West
+966,3/9/2024,9583,David Farley,Afghanistan,736,Sports,Basketball,10,990.51,9905.1,West
+967,4/28/2025,9035,Nathaniel Long,Macedonia,579,Sports,Tennis Racket,4,878.73,3514.92,North
+968,5/8/2025,4073,Joshua Howard,Colombia,950,Clothing,Jeans,2,546.03,1092.06,North
+970,9/26/2023,2501,Beverly Estes,Mauritania,548,Furniture,Chair,1,36.79,36.79,North
+972,12/21/2023,8882,Samuel Brown,Myanmar,921,Sports,Tennis Racket,2,440.19,880.38,West
+973,4/10/2025,4148,Gary Torres,Malawi,790,Furniture,Couch,9,517.38,4656.42,West
+975,4/6/2025,5357,Christopher Hill,Japan,965,Electronics,Camera,9,289.06,2601.54,West
+976,1/21/2024,9326,Cynthia Monroe,Nauru,847,Furniture,Desk,5,287.05,1435.25,East
+977,4/20/2025,3976,Leslie Torres,Niger,852,Furniture,Chair,1,776.92,776.92,South
+978,3/4/2025,7890,Whitney Stewart,Barbados,904,Clothing,Jacket,1,720.91,720.91,West
+979,3/5/2025,4307,Matthew Espinoza,Zimbabwe,552,Beauty,Perfume,4,554.36,2217.44,West
+980,1/22/2025,8341,Nathaniel Johns,Macedonia,718,Beauty,Perfume,4,345.59,1382.36,East
+981,3/7/2025,9326,Cynthia Monroe,Nauru,832,Beauty,Makeup,7,641.53,4490.71,South
+983,4/18/2024,5048,Frank Chandler,Mayotte,631,Electronics,Smartphone,3,744.41,2233.23,North
+984,5/16/2024,1158,Jessica Morrison,Guernsey,755,Beauty,Perfume,10,363.44,3634.4,East
+985,3/14/2024,2585,Jeffrey Chase,Montserrat,733,Furniture,Bed,9,688.45,6196.05,South
+986,12/10/2024,8305,Wayne Stokes,Mali,555,Electronics,Monitor,5,327.18,1635.9,North
+987,10/17/2023,5017,James Henderson,Monaco,591,Clothing,Jacket,3,383.83,1151.49,North
+988,12/31/2023,2132,Alicia Cannon,Pitcairn Islands,933,Beauty,Lotion,1,73.8,73.8,East
+989,6/20/2025,4484,Dr. Andrea Lopez,Kuwait,547,Furniture,Bed,3,923.71,2771.13,East
+990,2/19/2024,4705,Felicia Garcia,Czech Republic,655,Furniture,Bed,5,374.79,1873.95,East
+991,1/23/2025,7295,Michael Johnson,Eritrea,886,Electronics,Smartphone,3,878.35,2635.05,South
+992,7/5/2024,1440,Miguel Johnson,Estonia,507,Electronics,Camera,10,123.88,1238.8,South
+994,5/14/2024,6989,Ronald Stewart,Yemen,943,Sports,Bicycle,8,91.52,732.16,West
+995,9/26/2024,2599,Benjamin Hart,Saudi Arabia,941,Beauty,Shampoo,8,204.73,1637.84,West
+996,10/28/2023,5323,Elizabeth Woodard,Indonesia,791,Furniture,Bed,2,392.86,785.72,North
+997,12/13/2023,7890,Whitney Stewart,Barbados,635,Clothing,Jeans,4,370.76,1483.04,South
+998,6/1/2024,9094,Erica Martin,Guadeloupe,507,Clothing,Jacket,8,350.61,2804.88,North
+999,9/23/2023,6357,Kylie Mclaughlin,Wallis and Futuna,722,Beauty,Shampoo,7,255.01,1785.07,South
+1000,8/30/2023,4305,Jennifer Gardner,Slovakia (Slovak Republic),963,Sports,Tennis Racket,7,455.97,3191.79,East
