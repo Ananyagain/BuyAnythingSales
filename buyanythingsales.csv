@@ -21,7 +21,6 @@ OrderID,OrderDate,CustomerID,CustomerName,Country,ProductID,ProductCategory,Prod
 17,11/14/2023,1792,Patrick Brown,French Southern Territories,823,Furniture,Bed,10,799.32,7993.2,North
 18,10/28/2024,9035,Nathaniel Long,Macedonia,621,Clothing,T-Shirt,7,866.25,6063.75,East
 19,6/21/2024,9035,Nathaniel Long,Macedonia,626,Clothing,Shoes,10,133.98,1339.8,South
-,,,,,,,,,,,
 20,8/11/2023,1497,Sarah Nielsen,Kiribati,526,Clothing,Jacket,4,903.25,3613,East
 21,3/22/2024,2610,Krista Sampson,Jamaica,892,Furniture,Couch,3,648.57,1945.71,West
 22,12/12/2024,4809,Justin Montgomery,Djibouti,939,Electronics,Headphones,10,542.34,5423.4,West
