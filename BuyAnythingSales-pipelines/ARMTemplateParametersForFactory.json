@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "BuyAnythingSales-pipelines"
+		},
+		"AzureDataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"AzureDatabricks_accessToken": {
+			"value": ""
+		},
+		"AzureSqlDatabase_password": {
+			"value": ""
+		},
+		"HttpServer_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://buyanythingsalesstorage.dfs.core.windows.net/"
+		},
+		"AzureDatabricks_properties_typeProperties_existingClusterId": {
+			"value": "0606-070949-af29734y"
+		},
+		"AzureSqlDatabase_properties_typeProperties_server": {
+			"value": "bas-serverr.database.windows.net"
+		},
+		"AzureSqlDatabase_properties_typeProperties_database": {
+			"value": "BAS-database"
+		},
+		"AzureSqlDatabase_properties_typeProperties_userName": {
+			"value": "ananya"
+		},
+		"HttpServer_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
+		},
+		"HttpServer_properties_typeProperties_userName": {
+			"value": "ananya"
+		}
+	}
+}
