@@ -1,0 +1,15 @@
+{
+	"name": "BuyAnythingSales-pipelines",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ddd5cfff-43ec-4b3b-a77d-9875361701a8",
+		"tenantId": "298da10b-de53-4967-8dc2-8cc1dea4b2c4"
+	}
+}
