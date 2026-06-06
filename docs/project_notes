@@ -1,0 +1,14 @@
+#lastDate lookup
+
+SELECT * FROM [dbo].[DateHolder]
+
+#maxDate lookup
+
+SELECT max(orderdate) as maxDate FROM SalesOrders
+
+#delta load query
+select * from SalesOrders 
+where orderdate>='@{activity('lastDate').output.value[0].LastDate}'
+and 
+orderdate<='@{activity('maxDate').output.value[0].maxDate}'
+
