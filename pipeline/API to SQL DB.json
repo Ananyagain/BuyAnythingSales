@@ -1,5 +1,5 @@
 {
-	"name": "GIT to SQL DB",
+	"name": "API to SQL DB",
 	"properties": {
 		"activities": [
 			{
